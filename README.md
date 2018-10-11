@@ -1,22 +1,13 @@
-# cv-tricks.com: Learn computer vision and artificial intelligence
-Repository for all the tutorials and codes shared at cv-tricks.com
+#1. Start pretraining by running this command:
+python 1_vgg16_pretrain.py  -train ../tutorial-2-image-classifier/training_data/ -val ../tutorial-2-image-classifier/testing_data/ -num_class 2
 
+#Now, a weights file with the name cv-tricks_pretrained_model.h5 should be saved. Now, in order to start fine-tuning process, run this command
+python 2_vgg16_finetune.py  -train ../tutorial-2-image-classifier/training_data/ -val ../tutorial-2-image-classifier/testing_data/ -num_class 2
 
-# Tensorflow tutorials: 
+#This will save the finetuned weights(cv-tricks_fine_tuned_model.h5) with 98%+ accuracy
 
-#1 10 minutes Practical TensorFlow lesson for quick learners: If you have just heard about Tensorflow and are looking to get started, then go to this blog post http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/ and in the end we train a simple linear classifier to absorb what we have studied. Code is here https://github.com/sankit1/cv-tricks.com/tree/master/Tensorflow-tutorials/first_tutorial
+#Now, you can use the predict script to run this trained model on a new image of a dog or cat
+python 3_predict.py --image test.jpg
 
-#2 Build image classifier using Tensorflow: In this blogpost http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/ , We build a simple convolutional neural network using Tensorflow. Code is here: https://github.com/sankit1/cv-tricks.com/tree/master/Tensorflow-tutorials/tutorial-2-image-classifier. 
-
-#3 Learn to save and restore Tensorflow Models: BlogPost here: http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
-
-#4 Tutorial to Learn TF-slim and run VGG, Inception and other popular networks. Code here: https://github.com/sankit1/cv-tricks.com/tree/master/Tensorflow-tutorials/Tensorflow-slim-run-prediction 
-
-#5. Installing and getting started with Keras. Code here:  https://github.com/sankit1/cv-tricks.com/tree/master/Tensorflow-tutorials/Keras-Tensorflow-tutorial
-
-# Advanced Topics(Blogs): 
-
-1. Object Detection algorithms. http://cv-tricks.com/artificial-intelligence/object-detection-using-deep-learning-for-advanced-users-part-1/
-2. Image Segmentation using Tensorflow . http://cv-tricks.com/image-segmentation/transpose-convolution-in-tensorflow/
-3. Show-Attend-and-Tell: Finer details of Image Captioning. http://cv-tricks.com/image-segmentation/transpose-convolution-in-tensorflow/
-4. Accelerating CNNs on Raspberry Pi: http://cv-tricks.com/artificial-intelligence/deep-learning/accelerating-convolutional-neural-networks-on-raspberry-pi/
+## This prints a list which contains the probabilities for image being cat or dog.
+#[ prob of cat  , prob of dog]
