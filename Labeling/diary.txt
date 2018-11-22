@@ -1,0 +1,3648 @@
+
+bestExposure = 7
+continuous: stops(1) =    3.162, stops(2) =    0.159, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 5.715278 seconds.
+2, 507, Kehtarnavaz, exposureSet = 4 7 
+image range: [4, 9]
+[phiMin, phiMax] =   4.85972809,  20.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 1.776134 seconds.
+4, 507, Barakat, exposureSet = 2 7 8 9 
+image range: [4, 9]
+[phiMin, phiMax] =   4.85972809,  20.31002809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.006250000000
+m( 9) = 171, t( 9) =  0.400000000000
+Elapsed time is 14.212820 seconds.
+2, 507, Hasinoff, exposureSet = 3 9 
+image range: [4, 9]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 224439.537410, exposureSet = 6 9 
+Elapsed time is 0.235138 seconds.
+2, 507, Seshadrinathan5, exposureSet = 6 9 
+minP = 20, maxP = 230
+ 3:  0.006250000000
+ 5:  0.025000000000
+ 9:  0.400000000000
+72/616960 rows (0.0 percent) are zero
+Elapsed time is 1.923902 seconds.
+3, 507, SetCovering, exposureSet = 3 5 9 
+Elapsed time is 0.162563 seconds.
+3, 507, Middle3 , exposureSet = 5 7 9 
+
+bestExposure = 9
+continuous: stops(1) =    3.275, stops(2) =    0.745, stops(3) =   -2.847
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.180983 seconds.
+1, AhwahneeGreatLounge, Kehtarnavaz, exposureSet = 6 
+image range: [1, 9]
+[phiMin, phiMax] =   3.53780000,  21.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.195828 seconds.
+4, AhwahneeGreatLounge, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   3.53780000,  21.95388428
+Using second cost function: shutter speeds + overhead
+m( 1) =   2, t( 1) =  0.004000000000
+m( 8) =   2, t( 8) =  0.500000000000
+m( 9) = 170, t( 9) =  1.000000000000
+Elapsed time is 0.231492 seconds.
+3, AhwahneeGreatLounge, Hasinoff, exposureSet = 1 8 9 
+image range: [1, 9]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 39282.060618, exposureSet = 8 9 
+Elapsed time is 0.197375 seconds.
+2, AhwahneeGreatLounge, Seshadrinathan5, exposureSet = 8 9 
+minP = 20, maxP = 230
+ 1:  0.004000000000
+ 2:  0.008000000000
+ 5:  0.066666666667
+ 6:  0.125000000000
+ 7:  0.250000000000
+ 8:  0.500000000000
+ 9:  1.000000000000
+45871/616960 rows (7.4 percent) are zero
+Elapsed time is 0.306453 seconds.
+7, AhwahneeGreatLounge, SetCovering, exposureSet = 1 2 5 6 7 8 9 
+Elapsed time is 0.178363 seconds.
+4, AhwahneeGreatLounge, Middle7 , exposureSet = 3 5 7 9 
+
+bestExposure = 8
+continuous: stops(1) =    2.268, stops(2) =    0.908, stops(3) =   -3.390
+discrete:   steps(1) =    2.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.169384 seconds.
+2, AirBellowsGap, Kehtarnavaz, exposureSet = 5 9 
+image range: [1, 8]
+[phiMin, phiMax] =   6.43612809,  22.08132809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.179050 seconds.
+4, AirBellowsGap, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =   6.43612809,  22.08132809
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.001562500000
+m( 3) =   1, t( 3) =  0.006250000000
+m( 9) =  13, t( 9) =  0.500000000000
+Elapsed time is 0.214896 seconds.
+3, AirBellowsGap, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 8]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 249371.732242, exposureSet = 6 7 
+Elapsed time is 0.180316 seconds.
+2, AirBellowsGap, Seshadrinathan5, exposureSet = 6 7 
+minP = 20, maxP = 230
+ 1:  0.001562500000
+ 5:  0.025000000000
+ 9:  0.500000000000
+132/616960 rows (0.0 percent) are zero
+Elapsed time is 0.311326 seconds.
+3, AirBellowsGap, SetCovering, exposureSet = 1 5 9 
+Elapsed time is 0.147835 seconds.
+2, AirBellowsGap, Middle3 , exposureSet = 6 8 
+
+bestExposure = 6
+continuous: stops(1) =    3.493, stops(2) =    0.652, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.198770 seconds.
+3, AmikeusBeaverDamPM1, Kehtarnavaz, exposureSet = 3 7 9 
+image range: [1, 9]
+[phiMin, phiMax] =   3.53780000,  20.09678428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.212876 seconds.
+4, AmikeusBeaverDamPM1, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   3.53780000,  20.09678428
+Using second cost function: shutter speeds + overhead
+m( 1) =   2, t( 1) =  0.008000000000
+m( 8) =   2, t( 8) =  1.000000000000
+m( 9) =  43, t( 9) =  2.000000000000
+Elapsed time is 0.234741 seconds.
+3, AmikeusBeaverDamPM1, Hasinoff, exposureSet = 1 8 9 
+image range: [1, 9]
+N = 1
+found = true, N = 1, maxValue = 97695.530938, exposureSet = 8 
+Elapsed time is 0.221034 seconds.
+1, AmikeusBeaverDamPM1, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+ 1:  0.008000000000
+ 3:  0.033333333333
+ 5:  0.125000000000
+ 9:  2.000000000000
+32/616960 rows (0.0 percent) are zero
+Elapsed time is 0.348134 seconds.
+4, AmikeusBeaverDamPM1, SetCovering, exposureSet = 1 3 5 9 
+Elapsed time is 0.175174 seconds.
+4, AmikeusBeaverDamPM1, Middle5 , exposureSet = 2 4 6 8 
+
+bestExposure = 6
+continuous: stops(1) =    3.275, stops(2) =    0.573, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.201366 seconds.
+3, AmikeusBeaverDamPM2, Kehtarnavaz, exposureSet = 3 7 9 
+image range: [1, 7]
+[phiMin, phiMax] =   3.53780000,  19.63195619
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.199209 seconds.
+4, AmikeusBeaverDamPM2, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 7]
+[phiMin, phiMax] =   3.53780000,  19.63195619
+Using second cost function: shutter speeds + overhead
+m( 1) =   2, t( 1) =  0.020000000000
+m( 2) =   1, t( 2) =  0.025000000000
+m( 9) =  14, t( 9) =  3.600000000000
+Elapsed time is 0.286062 seconds.
+3, AmikeusBeaverDamPM2, Hasinoff, exposureSet = 1 2 9 
+image range: [1, 7]
+N = 1
+found = true, N = 1, maxValue = 67298.187168, exposureSet = 7 
+Elapsed time is 0.198446 seconds.
+1, AmikeusBeaverDamPM2, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 1:  0.020000000000
+ 4:  0.100000000000
+ 6:  0.400000000000
+ 8:  1.800000000000
+574/616960 rows (0.1 percent) are zero
+Elapsed time is 0.361458 seconds.
+4, AmikeusBeaverDamPM2, SetCovering, exposureSet = 1 4 6 8 
+Elapsed time is 0.181593 seconds.
+4, AmikeusBeaverDamPM2, Middle5 , exposureSet = 2 4 6 8 
+
+bestExposure = 6
+continuous: stops(1) =    1.648, stops(2) =   -0.294, stops(3) =   -1.322
+discrete:   steps(1) =    2.000, steps(2) =   -0.000, steps(3) =   -1.000
+Elapsed time is 0.194104 seconds.
+3, ArtistPalette, Kehtarnavaz, exposureSet = 5 6 8 
+image range: [6, 6]
+[phiMin, phiMax] =  12.80889060,  17.51159060
+minP = 20, maxP = 230
+Elapsed time is 0.161592 seconds.
+1, ArtistPalette, Barakat, exposureSet = 6 
+image range: [6, 6]
+[phiMin, phiMax] =  12.80889060,  17.51159060
+Using second cost function: shutter speeds + overhead
+m( 6) =   1, t( 6) =  0.033333333333
+Elapsed time is 0.172692 seconds.
+1, ArtistPalette, Hasinoff, exposureSet = 6 
+image range: [6, 6]
+N = 1
+found = true, N = 1, maxValue = 1008859.154758, exposureSet = 8 
+Elapsed time is 0.159463 seconds.
+1, ArtistPalette, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+Adding bestExposure =  2
+ 2:  0.002000000000
+ 6:  0.033333333333
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.360248 seconds.
+2, ArtistPalette, SetCovering, exposureSet = 2 6 
+Elapsed time is 0.162388 seconds.
+3, ArtistPalette, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 7
+continuous: stops(1) =    2.548, stops(2) =   -0.699, stops(3) =   -3.083
+discrete:   steps(1) =    3.000, steps(2) =   -1.000, steps(3) =   -3.000
+Elapsed time is 0.169195 seconds.
+2, BalancedRock, Kehtarnavaz, exposureSet = 4 6 
+image range: [2, 9]
+[phiMin, phiMax] =   8.44469060,  24.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.174684 seconds.
+4, BalancedRock, Barakat, exposureSet = 1 6 8 9 
+image range: [2, 9]
+[phiMin, phiMax] =   8.44469060,  24.95388428
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.000500000000
+m( 8) =   2, t( 8) =  0.033333333333
+m( 9) =  43, t( 9) =  0.066666666667
+Elapsed time is 0.187736 seconds.
+3, BalancedRock, Hasinoff, exposureSet = 2 8 9 
+image range: [2, 9]
+N = 1
+found = true, N = 1, maxValue = 159782.138179, exposureSet = 8 
+Elapsed time is 0.174486 seconds.
+1, BalancedRock, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+ 1:  0.000250000000
+ 5:  0.004000000000
+ 9:  0.066666666667
+50/616960 rows (0.0 percent) are zero
+Elapsed time is 0.304781 seconds.
+3, BalancedRock, SetCovering, exposureSet = 1 5 9 
+Elapsed time is 0.150610 seconds.
+3, BalancedRock, Middle3 , exposureSet = 5 7 9 
+
+bestExposure = 6
+continuous: stops(1) =    2.345, stops(2) =   -0.681, stops(3) =   -2.329
+discrete:   steps(1) =    2.000, steps(2) =   -1.000, steps(3) =   -2.000
+Elapsed time is 0.165582 seconds.
+3, BandonSunset1, Kehtarnavaz, exposureSet = 4 5 8 
+image range: [2, 6]
+[phiMin, phiMax] =  10.05692809,  21.02932809
+minP = 20, maxP = 230
+Elapsed time is 0.157287 seconds.
+3, BandonSunset1, Barakat, exposureSet = 1 6 8 
+image range: [2, 6]
+[phiMin, phiMax] =  10.05692809,  21.02932809
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.003125000000
+m( 8) =   1, t( 8) =  0.200000000000
+Elapsed time is 0.170026 seconds.
+2, BandonSunset1, Hasinoff, exposureSet = 2 8 
+image range: [2, 6]
+N = 1
+found = true, N = 1, maxValue = 233195.760974, exposureSet = 7 
+Elapsed time is 0.163776 seconds.
+1, BandonSunset1, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  3
+ 1:  0.001562500000
+ 3:  0.006250000000
+ 8:  0.200000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.302856 seconds.
+3, BandonSunset1, SetCovering, exposureSet = 1 3 8 
+Elapsed time is 0.149814 seconds.
+3, BandonSunset1, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 6
+continuous: stops(1) =    2.234, stops(2) =   -0.462, stops(3) =   -2.403
+discrete:   steps(1) =    2.000, steps(2) =   -0.000, steps(3) =   -2.000
+Elapsed time is 0.169369 seconds.
+3, BandonSunset2, Kehtarnavaz, exposureSet = 4 6 8 
+image range: [1, 5]
+[phiMin, phiMax] =   9.50552809,  20.07412809
+minP = 20, maxP = 230
+Elapsed time is 0.160430 seconds.
+3, BandonSunset2, Barakat, exposureSet = 1 6 8 
+image range: [1, 5]
+[phiMin, phiMax] =   9.50552809,  20.07412809
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.003125000000
+m( 5) =   1, t( 5) =  0.050000000000
+m( 6) =   1, t( 6) =  0.100000000000
+m( 7) =   1, t( 7) =  0.200000000000
+Elapsed time is 0.175003 seconds.
+4, BandonSunset2, Hasinoff, exposureSet = 1 5 6 7 
+image range: [1, 5]
+N = 1
+found = true, N = 1, maxValue = 277351.483208, exposureSet = 7 
+Elapsed time is 0.160606 seconds.
+1, BandonSunset2, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  3
+ 1:  0.003125000000
+ 3:  0.012500000000
+ 8:  0.400000000000
+35/616960 rows (0.0 percent) are zero
+Elapsed time is 0.312063 seconds.
+3, BandonSunset2, SetCovering, exposureSet = 1 3 8 
+Elapsed time is 0.150365 seconds.
+3, BandonSunset2, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    3.275, stops(2) =   -0.531, stops(3) =   -2.403
+discrete:   steps(1) =    3.000, steps(2) =   -1.000, steps(3) =   -2.000
+Elapsed time is 0.176377 seconds.
+3, BarHarborPresunrise, Kehtarnavaz, exposureSet = 3 4 8 
+image range: [4, 8]
+[phiMin, phiMax] =   5.33786250,  18.12075619
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.169186 seconds.
+3, BarHarborPresunrise, Barakat, exposureSet = 3 8 9 
+image range: [4, 8]
+[phiMin, phiMax] =   5.33786250,  18.12075619
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.005000000000
+m( 6) =   1, t( 6) =  0.166666666667
+m( 8) =   1, t( 8) =  0.500000000000
+m( 9) =  12, t( 9) =  1.100000000000
+Elapsed time is 0.182170 seconds.
+4, BarHarborPresunrise, Hasinoff, exposureSet = 1 6 8 9 
+image range: [4, 8]
+N = 1
+found = true, N = 1, maxValue = 157033.372467, exposureSet = 6 
+Elapsed time is 0.169933 seconds.
+1, BarHarborPresunrise, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 1:  0.005000000000
+ 2:  0.010000000000
+ 6:  0.166666666667
+ 9:  1.100000000000
+3/616960 rows (0.0 percent) are zero
+Elapsed time is 0.317138 seconds.
+4, BarHarborPresunrise, SetCovering, exposureSet = 1 2 6 9 
+Elapsed time is 0.154987 seconds.
+5, BarHarborPresunrise, Middle5 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 7
+continuous: stops(1) =    3.493, stops(2) =   -0.495, stops(3) =   -2.879
+discrete:   steps(1) =    3.000, steps(2) =   -0.000, steps(3) =   -3.000
+Elapsed time is 0.172148 seconds.
+2, BarHarborSunrise, Kehtarnavaz, exposureSet = 4 7 
+image range: [1, 9]
+[phiMin, phiMax] =   7.85972809,  26.27581238
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.186655 seconds.
+4, BarHarborSunrise, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   7.85972809,  26.27581238
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.000200000000
+m( 4) =   1, t( 4) =  0.001562500000
+m( 9) = 171, t( 9) =  0.050000000000
+Elapsed time is 0.202284 seconds.
+3, BarHarborSunrise, Hasinoff, exposureSet = 1 4 9 
+image range: [1, 9]
+N = 1
+found = true, N = 1, maxValue = 171794.120233, exposureSet = 9 
+Elapsed time is 0.190126 seconds.
+1, BarHarborSunrise, Seshadrinathan5, exposureSet = 9 
+minP = 20, maxP = 230
+ 1:  0.000200000000
+ 6:  0.006250000000
+ 9:  0.050000000000
+2776/616960 rows (0.4 percent) are zero
+Elapsed time is 0.312817 seconds.
+3, BarHarborSunrise, SetCovering, exposureSet = 1 6 9 
+Elapsed time is 0.150934 seconds.
+3, BarHarborSunrise, Middle3 , exposureSet = 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    3.493, stops(2) =    0.690, stops(3) =   -1.524
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -2.000
+Elapsed time is 0.185366 seconds.
+3, BenJerrys, Kehtarnavaz, exposureSet = 3 6 8 
+image range: [2, 7]
+[phiMin, phiMax] =   8.44469060,  23.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.179238 seconds.
+4, BenJerrys, Barakat, exposureSet = 1 6 8 9 
+image range: [2, 7]
+[phiMin, phiMax] =   8.44469060,  23.95388428
+Using second cost function: shutter speeds + overhead
+m( 2) =   2, t( 2) =  0.001000000000
+m( 9) =  13, t( 9) =  0.125000000000
+Elapsed time is 0.196211 seconds.
+2, BenJerrys, Hasinoff, exposureSet = 2 9 
+image range: [2, 7]
+N = 1
+found = true, N = 1, maxValue = 218167.271904, exposureSet = 8 
+Elapsed time is 0.181553 seconds.
+1, BenJerrys, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+ 1:  0.000500000000
+ 5:  0.008000000000
+ 7:  0.033333333333
+ 8:  0.066666666667
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.323618 seconds.
+4, BenJerrys, SetCovering, exposureSet = 1 5 7 8 
+Elapsed time is 0.164569 seconds.
+5, BenJerrys, Middle5 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    1.473, stops(2) =   -0.119, stops(3) =   -1.119
+discrete:   steps(1) =    1.000, steps(2) =   -0.000, steps(3) =   -1.000
+Elapsed time is 0.170105 seconds.
+3, BigfootPass, Kehtarnavaz, exposureSet = 4 5 6 
+image range: [5, 5]
+[phiMin, phiMax] =  12.44862809,  20.31002809
+minP = 20, maxP = 230
+Elapsed time is 0.149226 seconds.
+2, BigfootPass, Barakat, exposureSet = 3 7 
+image range: [5, 5]
+[phiMin, phiMax] =  12.44862809,  20.31002809
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.000800000000
+m( 7) =   1, t( 7) =  0.050000000000
+Elapsed time is 0.163538 seconds.
+2, BigfootPass, Hasinoff, exposureSet = 1 7 
+image range: [5, 5]
+N = 1
+found = true, N = 1, maxValue = 520278.613949, exposureSet = 7 
+Elapsed time is 0.149386 seconds.
+1, BigfootPass, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  2
+ 2:  0.001562500000
+ 6:  0.025000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.301804 seconds.
+2, BigfootPass, SetCovering, exposureSet = 2 6 
+Elapsed time is 0.150616 seconds.
+3, BigfootPass, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 6
+continuous: stops(1) =    2.617, stops(2) =   -0.428, stops(3) =   -1.689
+discrete:   steps(1) =    3.000, steps(2) =   -0.000, steps(3) =   -2.000
+Elapsed time is 0.193686 seconds.
+3, BloomingGorse1, Kehtarnavaz, exposureSet = 4 6 9 
+image range: [5, 8]
+[phiMin, phiMax] =   7.44469060,  18.66629060
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.177801 seconds.
+3, BloomingGorse1, Barakat, exposureSet = 4 8 9 
+image range: [5, 8]
+[phiMin, phiMax] =   7.44469060,  18.66629060
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.004000000000
+m( 9) =  13, t( 9) =  0.250000000000
+Elapsed time is 0.191156 seconds.
+2, BloomingGorse1, Hasinoff, exposureSet = 3 9 
+image range: [5, 8]
+N = 1
+found = true, N = 1, maxValue = 435410.773687, exposureSet = 8 
+Elapsed time is 0.181023 seconds.
+1, BloomingGorse1, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+Adding bestExposure =  6
+ 4:  0.008000000000
+ 6:  0.033333333333
+ 8:  0.125000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.330480 seconds.
+3, BloomingGorse1, SetCovering, exposureSet = 4 6 8 
+Elapsed time is 0.173200 seconds.
+3, BloomingGorse1, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 6
+continuous: stops(1) =    3.275, stops(2) =    0.257, stops(3) =   -2.187
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -2.000
+Elapsed time is 0.201690 seconds.
+3, BloomingGorse2, Kehtarnavaz, exposureSet = 4 6 9 
+image range: [5, 8]
+[phiMin, phiMax] =   7.11420000,  19.38379060
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.185016 seconds.
+3, BloomingGorse2, Barakat, exposureSet = 4 8 9 
+image range: [5, 8]
+[phiMin, phiMax] =   7.11420000,  19.38379060
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.004000000000
+m( 9) =  20, t( 9) =  0.250000000000
+Elapsed time is 0.196128 seconds.
+2, BloomingGorse2, Hasinoff, exposureSet = 3 9 
+image range: [5, 8]
+N = 1
+found = true, N = 1, maxValue = 198528.717622, exposureSet = 8 
+Elapsed time is 0.188703 seconds.
+1, BloomingGorse2, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+ 3:  0.004000000000
+ 5:  0.016666666667
+ 7:  0.066666666667
+ 9:  0.250000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.343700 seconds.
+4, BloomingGorse2, SetCovering, exposureSet = 3 5 7 9 
+Elapsed time is 0.179081 seconds.
+4, BloomingGorse2, Middle5 , exposureSet = 2 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    3.582, stops(2) =    0.690, stops(3) =   -1.341
+discrete:   steps(1) =    4.000, steps(2) =    1.000, steps(3) =   -1.000
+Elapsed time is 0.190166 seconds.
+3, CadesCove, Kehtarnavaz, exposureSet = 4 6 9 
+image range: [5, 7]
+[phiMin, phiMax] =   6.85972809,  19.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.172694 seconds.
+3, CadesCove, Barakat, exposureSet = 3 8 9 
+image range: [5, 7]
+[phiMin, phiMax] =   6.85972809,  19.31002809
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.003125000000
+m( 8) =   1, t( 8) =  0.200000000000
+m( 9) =  11, t( 9) =  0.400000000000
+Elapsed time is 0.184089 seconds.
+3, CadesCove, Hasinoff, exposureSet = 2 8 9 
+image range: [5, 7]
+N = 1
+found = true, N = 1, maxValue = 182794.601447, exposureSet = 7 
+Elapsed time is 0.173614 seconds.
+1, CadesCove, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  5
+ 4:  0.012500000000
+ 5:  0.025000000000
+ 9:  0.400000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.329708 seconds.
+3, CadesCove, SetCovering, exposureSet = 4 5 9 
+Elapsed time is 0.166809 seconds.
+3, CadesCove, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    3.162, stops(2) =    0.518, stops(3) =   -1.856
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -2.000
+Elapsed time is 0.192146 seconds.
+3, CanadianFalls, Kehtarnavaz, exposureSet = 3 6 8 
+image range: [4, 8]
+[phiMin, phiMax] =  10.79582809,  21.59762809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.190478 seconds.
+3, CanadianFalls, Barakat, exposureSet = 4 8 9 
+image range: [4, 8]
+[phiMin, phiMax] =  10.79582809,  21.59762809
+Using second cost function: shutter speeds + overhead
+m( 5) =   2, t( 5) =  0.003125000000
+m( 8) =   1, t( 8) =  0.025000000000
+m( 9) =   3, t( 9) =  0.050000000000
+Elapsed time is 0.194907 seconds.
+3, CanadianFalls, Hasinoff, exposureSet = 5 8 9 
+image range: [4, 8]
+N = 1
+found = true, N = 1, maxValue = 216341.854789, exposureSet = 7 
+Elapsed time is 0.186065 seconds.
+1, CanadianFalls, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 4:  0.001562500000
+ 5:  0.003125000000
+ 8:  0.025000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.340199 seconds.
+3, CanadianFalls, SetCovering, exposureSet = 4 5 8 
+Elapsed time is 0.172863 seconds.
+3, CanadianFalls, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 7
+continuous: stops(1) =    2.548, stops(2) =    0.147, stops(3) =   -2.879
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.209635 seconds.
+2, CemeteryTree1, Kehtarnavaz, exposureSet = 4 7 
+image range: [1, 9]
+[phiMin, phiMax] =   8.18360000,  24.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.215090 seconds.
+4, CemeteryTree1, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   8.18360000,  24.95388428
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.000500000000
+m( 7) =   2, t( 7) =  0.033333333333
+m( 9) =  18, t( 9) =  0.125000000000
+Elapsed time is 0.228467 seconds.
+3, CemeteryTree1, Hasinoff, exposureSet = 1 7 9 
+image range: [1, 9]
+N = 1
+found = true, N = 1, maxValue = 72146.275763, exposureSet = 7 
+Elapsed time is 0.217731 seconds.
+1, CemeteryTree1, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 1:  0.000500000000
+ 4:  0.004000000000
+ 5:  0.008000000000
+ 9:  0.125000000000
+2/616960 rows (0.0 percent) are zero
+Elapsed time is 0.350602 seconds.
+4, CemeteryTree1, SetCovering, exposureSet = 1 4 5 9 
+Elapsed time is 0.183425 seconds.
+4, CemeteryTree1, Middle5 , exposureSet = 3 5 7 9 
+
+bestExposure = 7
+continuous: stops(1) =    2.655, stops(2) =   -0.152, stops(3) =   -2.847
+discrete:   steps(1) =    3.000, steps(2) =   -0.000, steps(3) =   -3.000
+Elapsed time is 0.205062 seconds.
+2, CemeteryTree2, Kehtarnavaz, exposureSet = 4 7 
+image range: [1, 8]
+[phiMin, phiMax] =   8.85972809,  23.07291238
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.222984 seconds.
+4, CemeteryTree2, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =   8.85972809,  23.07291238
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.000800000000
+m( 8) =   1, t( 8) =  0.050000000000
+m( 9) =  11, t( 9) =  0.100000000000
+Elapsed time is 0.223410 seconds.
+3, CemeteryTree2, Hasinoff, exposureSet = 2 8 9 
+image range: [1, 8]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 264766.252202, exposureSet = 7 8 
+Elapsed time is 0.217424 seconds.
+2, CemeteryTree2, Seshadrinathan5, exposureSet = 7 8 
+minP = 20, maxP = 230
+ 1:  0.000400000000
+ 3:  0.001562500000
+ 6:  0.012500000000
+ 9:  0.100000000000
+6/616960 rows (0.0 percent) are zero
+Elapsed time is 0.351535 seconds.
+4, CemeteryTree2, SetCovering, exposureSet = 1 3 6 9 
+Elapsed time is 0.177270 seconds.
+4, CemeteryTree2, Middle5 , exposureSet = 3 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    2.513, stops(2) =    0.238, stops(3) =   -1.293
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -1.000
+Elapsed time is 0.174258 seconds.
+3, DelicateArch, Kehtarnavaz, exposureSet = 4 5 8 
+image range: [5, 6]
+[phiMin, phiMax] =  10.66689060,  19.43368428
+minP = 20, maxP = 230
+Elapsed time is 0.154879 seconds.
+2, DelicateArch, Barakat, exposureSet = 5 8 
+image range: [5, 6]
+[phiMin, phiMax] =  10.66689060,  19.43368428
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.002000000000
+m( 9) =   1, t( 9) =  0.125000000000
+Elapsed time is 0.162614 seconds.
+2, DelicateArch, Hasinoff, exposureSet = 3 9 
+image range: [5, 6]
+N = 1
+found = true, N = 1, maxValue = 420412.715082, exposureSet = 7 
+Elapsed time is 0.150670 seconds.
+1, DelicateArch, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  5
+ 5:  0.008000000000
+ 8:  0.066666666667
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.308317 seconds.
+2, DelicateArch, SetCovering, exposureSet = 5 8 
+Elapsed time is 0.149208 seconds.
+3, DelicateArch, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    3.162, stops(2) =    0.573, stops(3) =   -1.007
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -1.000
+Elapsed time is 0.185139 seconds.
+3, DelicateFlowers, Kehtarnavaz, exposureSet = 4 6 8 
+image range: [5, 7]
+[phiMin, phiMax] =   8.43612809,  18.65652809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.168065 seconds.
+3, DelicateFlowers, Barakat, exposureSet = 5 8 9 
+image range: [5, 7]
+[phiMin, phiMax] =   8.43612809,  18.65652809
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.001562500000
+m( 8) =   1, t( 8) =  0.100000000000
+m( 9) =   5, t( 9) =  0.200000000000
+Elapsed time is 0.179355 seconds.
+3, DelicateFlowers, Hasinoff, exposureSet = 2 8 9 
+image range: [5, 7]
+N = 1
+found = true, N = 1, maxValue = 290582.836173, exposureSet = 7 
+Elapsed time is 0.169129 seconds.
+1, DelicateFlowers, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 5:  0.012500000000
+ 8:  0.100000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.319937 seconds.
+2, DelicateFlowers, SetCovering, exposureSet = 5 8 
+Elapsed time is 0.165271 seconds.
+3, DelicateFlowers, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 6
+continuous: stops(1) =    2.924, stops(2) =   -0.017, stops(3) =   -2.803
+discrete:   steps(1) =    3.000, steps(2) =   -0.000, steps(3) =   -3.000
+Elapsed time is 0.183961 seconds.
+3, DevilsBathtub, Kehtarnavaz, exposureSet = 3 6 9 
+image range: [3, 8]
+[phiMin, phiMax] =   7.43612809,  21.08031111
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.178004 seconds.
+3, DevilsBathtub, Barakat, exposureSet = 3 8 9 
+image range: [3, 8]
+[phiMin, phiMax] =   7.43612809,  21.08031111
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.001333333333
+m( 8) =   1, t( 8) =  0.100000000000
+m( 9) =  28, t( 9) =  0.166666666667
+Elapsed time is 0.191154 seconds.
+3, DevilsBathtub, Hasinoff, exposureSet = 2 8 9 
+image range: [3, 8]
+N = 1
+found = true, N = 1, maxValue = 148341.749243, exposureSet = 7 
+Elapsed time is 0.178811 seconds.
+1, DevilsBathtub, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 2:  0.001333333333
+ 5:  0.011111111111
+ 7:  0.050000000000
+ 9:  0.166666666667
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.316477 seconds.
+4, DevilsBathtub, SetCovering, exposureSet = 2 5 7 9 
+Elapsed time is 0.162789 seconds.
+4, DevilsBathtub, Middle5 , exposureSet = 2 4 6 8 
+
+bestExposure = 6
+continuous: stops(1) =    2.206, stops(2) =   -0.410, stops(3) =   -1.689
+discrete:   steps(1) =    2.000, steps(2) =   -0.000, steps(3) =   -2.000
+Elapsed time is 0.190727 seconds.
+3, DevilsGolfCourse, Kehtarnavaz, exposureSet = 4 6 8 
+image range: [5, 7]
+[phiMin, phiMax] =   8.43612809,  18.32292809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.176037 seconds.
+3, DevilsGolfCourse, Barakat, exposureSet = 5 8 9 
+image range: [5, 7]
+[phiMin, phiMax] =   8.43612809,  18.32292809
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.001562500000
+m( 8) =   1, t( 8) =  0.100000000000
+m( 9) =   5, t( 9) =  0.200000000000
+Elapsed time is 0.185453 seconds.
+3, DevilsGolfCourse, Hasinoff, exposureSet = 2 8 9 
+image range: [5, 7]
+N = 1
+found = true, N = 1, maxValue = 496989.227017, exposureSet = 8 
+Elapsed time is 0.175313 seconds.
+1, DevilsGolfCourse, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+Adding bestExposure =  6
+ 5:  0.012500000000
+ 6:  0.025000000000
+ 8:  0.100000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.338199 seconds.
+3, DevilsGolfCourse, SetCovering, exposureSet = 5 6 8 
+Elapsed time is 0.170088 seconds.
+3, DevilsGolfCourse, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    3.240, stops(2) =    0.869, stops(3) =   -3.083
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.191949 seconds.
+3, DevilsTower, Kehtarnavaz, exposureSet = 2 6 8 
+image range: [1, 7]
+[phiMin, phiMax] =   6.53780000,  22.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.191834 seconds.
+4, DevilsTower, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 7]
+[phiMin, phiMax] =   6.53780000,  22.95388428
+Using second cost function: shutter speeds + overhead
+m( 1) =   2, t( 1) =  0.002000000000
+m( 8) =   1, t( 8) =  0.250000000000
+m( 9) =  11, t( 9) =  0.500000000000
+Elapsed time is 0.202306 seconds.
+3, DevilsTower, Hasinoff, exposureSet = 1 8 9 
+image range: [1, 7]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 214744.957249, exposureSet = 5 9 
+Elapsed time is 0.198451 seconds.
+2, DevilsTower, Seshadrinathan5, exposureSet = 5 9 
+minP = 20, maxP = 230
+ 1:  0.002000000000
+ 4:  0.016666666667
+ 8:  0.250000000000
+1210/616960 rows (0.2 percent) are zero
+Elapsed time is 0.335703 seconds.
+3, DevilsTower, SetCovering, exposureSet = 1 4 8 
+Elapsed time is 0.168638 seconds.
+3, DevilsTower, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 7
+continuous: stops(1) =    3.240, stops(2) =    0.819, stops(3) =   -1.305
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -1.000
+Elapsed time is 0.164787 seconds.
+2, ElCapitan, Kehtarnavaz, exposureSet = 6 8 
+image range: [7, 9]
+[phiMin, phiMax] =   7.85972809,  18.67302809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.151523 seconds.
+3, ElCapitan, Barakat, exposureSet = 6 8 9 
+image range: [7, 9]
+[phiMin, phiMax] =   7.85972809,  18.67302809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.001562500000
+m( 9) =  44, t( 9) =  0.100000000000
+Elapsed time is 0.160515 seconds.
+2, ElCapitan, Hasinoff, exposureSet = 3 9 
+image range: [7, 9]
+N = 1
+found = true, N = 1, maxValue = 188274.056493, exposureSet = 9 
+Elapsed time is 0.149082 seconds.
+1, ElCapitan, Seshadrinathan5, exposureSet = 9 
+minP = 20, maxP = 230
+ 6:  0.012500000000
+ 9:  0.100000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.299322 seconds.
+2, ElCapitan, SetCovering, exposureSet = 6 9 
+Elapsed time is 0.145291 seconds.
+3, ElCapitan, Middle3 , exposureSet = 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    2.655, stops(2) =    0.349, stops(3) =   -1.762
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -2.000
+Elapsed time is 0.185768 seconds.
+3, Exploratorium1, Kehtarnavaz, exposureSet = 3 5 8 
+image range: [4, 6]
+[phiMin, phiMax] =   8.85972809,  19.08132809
+minP = 20, maxP = 230
+Elapsed time is 0.165114 seconds.
+2, Exploratorium1, Barakat, exposureSet = 3 8 
+image range: [4, 6]
+[phiMin, phiMax] =   8.85972809,  19.08132809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.006250000000
+m( 9) =   1, t( 9) =  0.400000000000
+Elapsed time is 0.175473 seconds.
+2, Exploratorium1, Hasinoff, exposureSet = 3 9 
+image range: [4, 6]
+N = 1
+found = true, N = 1, maxValue = 290435.191502, exposureSet = 7 
+Elapsed time is 0.165292 seconds.
+1, Exploratorium1, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  5
+ 4:  0.012500000000
+ 5:  0.025000000000
+ 7:  0.100000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.314761 seconds.
+3, Exploratorium1, SetCovering, exposureSet = 4 5 7 
+Elapsed time is 0.163039 seconds.
+3, Exploratorium1, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    4.471, stops(2) =    0.724, stops(3) =   -1.137
+discrete:   steps(1) =    4.000, steps(2) =    1.000, steps(3) =   -1.000
+Elapsed time is 0.192392 seconds.
+3, Exploratorium2, Kehtarnavaz, exposureSet = 4 6 9 
+image range: [4, 9]
+[phiMin, phiMax] =   5.85972809,  19.00192809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.187738 seconds.
+3, Exploratorium2, Barakat, exposureSet = 3 8 9 
+image range: [4, 9]
+[phiMin, phiMax] =   5.85972809,  19.00192809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.006250000000
+m( 9) =  44, t( 9) =  0.400000000000
+Elapsed time is 0.205287 seconds.
+2, Exploratorium2, Hasinoff, exposureSet = 3 9 
+image range: [4, 9]
+N = 1
+found = true, N = 1, maxValue = 160226.152736, exposureSet = 7 
+Elapsed time is 0.190591 seconds.
+1, Exploratorium2, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 4:  0.012500000000
+ 6:  0.050000000000
+ 7:  0.100000000000
+ 9:  0.400000000000
+7/616960 rows (0.0 percent) are zero
+Elapsed time is 0.346525 seconds.
+4, Exploratorium2, SetCovering, exposureSet = 4 6 7 9 
+Elapsed time is 0.173025 seconds.
+5, Exploratorium2, Middle5 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 9
+continuous: stops(1) =    4.277, stops(2) =    0.593, stops(3) =   -2.712
+discrete:   steps(1) =    4.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.183001 seconds.
+1, Flamingo, Kehtarnavaz, exposureSet = 6 
+image range: [1, 9]
+[phiMin, phiMax] =   4.85972809,  22.08132809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.192906 seconds.
+4, Flamingo, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   4.85972809,  22.08132809
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.001562500000
+m( 3) =   1, t( 3) =  0.006250000000
+m( 9) = 171, t( 9) =  0.400000000000
+Elapsed time is 0.211425 seconds.
+3, Flamingo, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 9]
+N = 1
+N = 2
+N = 3
+N = 4
+N = 5
+found = false, N = 5, maxValue = 81831.991753, exposureSet = 5 6 7 8 9 
+Elapsed time is 0.257868 seconds.
+5, Flamingo, Seshadrinathan5, exposureSet = 5 6 7 8 9 
+minP = 20, maxP = 230
+ 1:  0.001562500000
+ 2:  0.003125000000
+ 3:  0.006250000000
+ 4:  0.012500000000
+ 5:  0.025000000000
+ 6:  0.050000000000
+ 7:  0.100000000000
+ 8:  0.200000000000
+ 9:  0.400000000000
+201523/616960 rows (32.7 percent) are zero
+Elapsed time is 0.285525 seconds.
+9, Flamingo, SetCovering, exposureSet = 1 2 3 4 5 6 7 8 9 
+Elapsed time is 0.157916 seconds.
+5, Flamingo, Middle9 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    2.580, stops(2) =    0.367, stops(3) =   -1.025
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -1.000
+Elapsed time is 0.179291 seconds.
+3, FourCornersStorm, Kehtarnavaz, exposureSet = 4 5 8 
+image range: [5, 8]
+[phiMin, phiMax] =   9.17433972,  20.63195619
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.163604 seconds.
+3, FourCornersStorm, Barakat, exposureSet = 3 8 9 
+image range: [5, 8]
+[phiMin, phiMax] =   9.17433972,  20.63195619
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.002500000000
+m( 9) =   3, t( 9) =  0.166666666667
+Elapsed time is 0.177100 seconds.
+2, FourCornersStorm, Hasinoff, exposureSet = 3 9 
+image range: [5, 8]
+N = 1
+found = true, N = 1, maxValue = 373922.817571, exposureSet = 8 
+Elapsed time is 0.166642 seconds.
+1, FourCornersStorm, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+Adding bestExposure =  5
+ 4:  0.005000000000
+ 5:  0.010000000000
+ 8:  0.076923076923
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.322869 seconds.
+3, FourCornersStorm, SetCovering, exposureSet = 4 5 8 
+Elapsed time is 0.157690 seconds.
+3, FourCornersStorm, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 9
+continuous: stops(1) =    3.162, stops(2) =    0.633, stops(3) =   -3.029
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.180892 seconds.
+1, Frontier, Kehtarnavaz, exposureSet = 6 
+image range: [1, 9]
+[phiMin, phiMax] =   4.53780000,  22.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.197883 seconds.
+4, Frontier, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   4.53780000,  22.95388428
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.002000000000
+m( 3) =   1, t( 3) =  0.008000000000
+m( 9) = 171, t( 9) =  0.500000000000
+Elapsed time is 0.203714 seconds.
+3, Frontier, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 9]
+N = 1
+found = true, N = 1, maxValue = 35873.881426, exposureSet = 9 
+Elapsed time is 0.193159 seconds.
+1, Frontier, Seshadrinathan5, exposureSet = 9 
+minP = 20, maxP = 230
+ 1:  0.002000000000
+ 2:  0.004000000000
+ 3:  0.008000000000
+ 4:  0.016666666667
+ 5:  0.033333333333
+ 6:  0.066666666667
+ 7:  0.125000000000
+ 8:  0.250000000000
+ 9:  0.500000000000
+20910/616960 rows (3.4 percent) are zero
+Elapsed time is 0.307724 seconds.
+9, Frontier, SetCovering, exposureSet = 1 2 3 4 5 6 7 8 9 
+Elapsed time is 0.155484 seconds.
+5, Frontier, Middle9 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    3.275, stops(2) =    0.887, stops(3) =   -3.083
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.177331 seconds.
+3, GeneralGrant, Kehtarnavaz, exposureSet = 2 6 8 
+image range: [1, 7]
+[phiMin, phiMax] =   4.49271162,  19.24842809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.177818 seconds.
+4, GeneralGrant, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 7]
+[phiMin, phiMax] =   4.49271162,  19.24842809
+Using second cost function: shutter speeds + overhead
+m( 2) =   2, t( 2) =  0.025000000000
+m( 9) =   6, t( 9) =  3.000000000000
+Elapsed time is 0.199416 seconds.
+2, GeneralGrant, Hasinoff, exposureSet = 2 9 
+image range: [1, 7]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 297908.852879, exposureSet = 4 9 
+Elapsed time is 0.183477 seconds.
+2, GeneralGrant, Seshadrinathan5, exposureSet = 4 9 
+minP = 20, maxP = 230
+ 1:  0.012500000000
+ 5:  0.200000000000
+ 8:  1.600000000000
+5/616960 rows (0.0 percent) are zero
+Elapsed time is 0.333087 seconds.
+3, GeneralGrant, SetCovering, exposureSet = 1 5 8 
+Elapsed time is 0.155566 seconds.
+3, GeneralGrant, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 6
+continuous: stops(1) =    2.513, stops(2) =    0.186, stops(3) =   -2.712
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.190504 seconds.
+3, GeneralSherman, Kehtarnavaz, exposureSet = 3 6 9 
+image range: [3, 8]
+[phiMin, phiMax] =   7.44469060,  21.44268428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.184759 seconds.
+4, GeneralSherman, Barakat, exposureSet = 2 7 8 9 
+image range: [3, 8]
+[phiMin, phiMax] =   7.44469060,  21.44268428
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.004000000000
+m( 9) =  13, t( 9) =  0.250000000000
+Elapsed time is 0.194690 seconds.
+2, GeneralSherman, Hasinoff, exposureSet = 3 9 
+image range: [3, 8]
+N = 1
+found = true, N = 1, maxValue = 185395.972438, exposureSet = 8 
+Elapsed time is 0.184452 seconds.
+1, GeneralSherman, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+ 2:  0.002000000000
+ 5:  0.016666666667
+ 8:  0.125000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.342267 seconds.
+3, GeneralSherman, SetCovering, exposureSet = 2 5 8 
+Elapsed time is 0.168862 seconds.
+3, GeneralSherman, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    2.829, stops(2) =    0.312, stops(3) =   -1.539
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -2.000
+Elapsed time is 0.174653 seconds.
+3, GoldenGate1, Kehtarnavaz, exposureSet = 3 5 8 
+image range: [5, 8]
+[phiMin, phiMax] =   8.08192809,  19.00192809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.160818 seconds.
+3, GoldenGate1, Barakat, exposureSet = 4 8 9 
+image range: [5, 8]
+[phiMin, phiMax] =   8.08192809,  19.00192809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.003125000000
+m( 9) =   9, t( 9) =  0.200000000000
+Elapsed time is 0.176126 seconds.
+2, GoldenGate1, Hasinoff, exposureSet = 3 9 
+image range: [5, 8]
+N = 1
+found = true, N = 1, maxValue = 206269.016268, exposureSet = 6 
+Elapsed time is 0.158986 seconds.
+1, GoldenGate1, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+Adding bestExposure =  4
+ 4:  0.006250000000
+ 5:  0.012500000000
+ 8:  0.100000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.299593 seconds.
+3, GoldenGate1, SetCovering, exposureSet = 4 5 8 
+Elapsed time is 0.153973 seconds.
+3, GoldenGate1, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    2.383, stops(2) =    0.000, stops(3) =   -2.643
+discrete:   steps(1) =    2.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.179071 seconds.
+3, GoldenGate2, Kehtarnavaz, exposureSet = 2 5 7 
+image range: [1, 6]
+[phiMin, phiMax] =   0.90490309,  11.90320000
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.177973 seconds.
+3, GoldenGate2, Barakat, exposureSet = 2 7 9 
+image range: [1, 6]
+[phiMin, phiMax] =   0.90490309,  11.90320000
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.500000000000
+m( 9) =   8, t( 9) = 30.000000000000
+Elapsed time is 0.185644 seconds.
+2, GoldenGate2, Hasinoff, exposureSet = 1 9 
+image range: [1, 6]
+N = 1
+found = true, N = 1, maxValue = 309658.517521, exposureSet = 7 
+Elapsed time is 0.175559 seconds.
+1, GoldenGate2, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  4
+ 1:  0.500000000000
+ 2:  1.000000000000
+ 3:  1.800000000000
+ 4:  3.600000000000
+ 7: 30.000000000000
+79/616960 rows (0.0 percent) are zero
+Elapsed time is 0.317288 seconds.
+5, GoldenGate2, SetCovering, exposureSet = 1 2 3 4 7 
+Elapsed time is 0.157419 seconds.
+5, GoldenGate2, Middle5 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 8
+continuous: stops(1) =    2.887, stops(2) =    0.745, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.177598 seconds.
+2, HDRMark, Kehtarnavaz, exposureSet = 5 9 
+image range: [1, 8]
+[phiMin, phiMax] =   3.43612809,  20.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.179558 seconds.
+4, HDRMark, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =   3.43612809,  20.31002809
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.012500000000
+m( 3) =   1, t( 3) =  0.050000000000
+m( 9) =  23, t( 9) =  3.000000000000
+Elapsed time is 0.194387 seconds.
+3, HDRMark, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 8]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 94193.978553, exposureSet = 7 9 
+Elapsed time is 0.181766 seconds.
+2, HDRMark, Seshadrinathan5, exposureSet = 7 9 
+minP = 20, maxP = 230
+ 1:  0.012500000000
+ 2:  0.025000000000
+ 4:  0.100000000000
+ 8:  1.600000000000
+ 9:  3.000000000000
+5772/616960 rows (0.9 percent) are zero
+Elapsed time is 0.304904 seconds.
+5, HDRMark, SetCovering, exposureSet = 1 2 4 8 9 
+Elapsed time is 0.153757 seconds.
+3, HDRMark, Middle5 , exposureSet = 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    2.513, stops(2) =    0.671, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.182921 seconds.
+3, HalfDomeSunset, Kehtarnavaz, exposureSet = 2 6 8 
+image range: [2, 5]
+[phiMin, phiMax] =  10.43612809,  23.31002809
+minP = 20, maxP = 230
+Elapsed time is 0.167434 seconds.
+3, HalfDomeSunset, Barakat, exposureSet = 1 6 8 
+image range: [2, 5]
+[phiMin, phiMax] =  10.43612809,  23.31002809
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.001562500000
+m( 8) =   2, t( 8) =  0.100000000000
+Elapsed time is 0.184087 seconds.
+2, HalfDomeSunset, Hasinoff, exposureSet = 2 8 
+image range: [2, 5]
+N = 1
+found = true, N = 1, maxValue = 82661.272541, exposureSet = 6 
+Elapsed time is 0.167722 seconds.
+1, HalfDomeSunset, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 1:  0.000800000000
+ 2:  0.001562500000
+ 5:  0.012500000000
+ 7:  0.050000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.327718 seconds.
+4, HalfDomeSunset, SetCovering, exposureSet = 1 2 5 7 
+Elapsed time is 0.160807 seconds.
+5, HalfDomeSunset, Middle5 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 4
+continuous: stops(1) =    3.275, stops(2) =    0.147, stops(3) =   -1.883
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -2.000
+Elapsed time is 0.164863 seconds.
+3, HallofFame, Kehtarnavaz, exposureSet = 2 4 7 
+image range: [3, 6]
+[phiMin, phiMax] =   5.43612809,  16.72312809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.152183 seconds.
+3, HallofFame, Barakat, exposureSet = 3 8 9 
+image range: [3, 6]
+[phiMin, phiMax] =   5.43612809,  16.72312809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.050000000000
+m( 9) =   2, t( 9) =  3.000000000000
+Elapsed time is 0.164827 seconds.
+2, HallofFame, Hasinoff, exposureSet = 3 9 
+image range: [3, 6]
+N = 1
+found = true, N = 1, maxValue = 252654.979750, exposureSet = 6 
+Elapsed time is 0.154554 seconds.
+1, HallofFame, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+Adding bestExposure =  4
+ 3:  0.050000000000
+ 4:  0.100000000000
+ 7:  0.769230769231
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.289278 seconds.
+3, HallofFame, SetCovering, exposureSet = 3 4 7 
+Elapsed time is 0.144441 seconds.
+3, HallofFame, Middle3 , exposureSet = 2 4 6 
+
+bestExposure = 7
+continuous: stops(1) =    2.548, stops(2) =    0.399, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.171342 seconds.
+2, HancockKitchenInside, Kehtarnavaz, exposureSet = 4 7 
+image range: [1, 8]
+[phiMin, phiMax] =   6.69916250,  23.63195619
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.183449 seconds.
+4, HancockKitchenInside, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =   6.69916250,  23.63195619
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.001250000000
+m( 3) =   1, t( 3) =  0.005000000000
+m( 9) =  20, t( 9) =  0.333333333333
+Elapsed time is 0.201225 seconds.
+3, HancockKitchenInside, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 8]
+N = 1
+found = true, N = 1, maxValue = 111531.764353, exposureSet = 9 
+Elapsed time is 0.186349 seconds.
+1, HancockKitchenInside, Seshadrinathan5, exposureSet = 9 
+minP = 20, maxP = 230
+ 1:  0.001250000000
+ 5:  0.020000000000
+ 9:  0.333333333333
+8281/616960 rows (1.3 percent) are zero
+Elapsed time is 0.312318 seconds.
+3, HancockKitchenInside, SetCovering, exposureSet = 1 5 9 
+Elapsed time is 0.158098 seconds.
+3, HancockKitchenInside, Middle3 , exposureSet = 5 7 9 
+
+bestExposure = 6
+continuous: stops(1) =    3.615, stops(2) =   -0.258, stops(3) =   -2.341
+discrete:   steps(1) =    4.000, steps(2) =   -0.000, steps(3) =   -2.000
+Elapsed time is 0.188793 seconds.
+2, HancockKitchenOutside, Kehtarnavaz, exposureSet = 4 6 
+image range: [5, 8]
+[phiMin, phiMax] =   7.81463972,  20.63195619
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.172683 seconds.
+3, HancockKitchenOutside, Barakat, exposureSet = 3 8 9 
+image range: [5, 8]
+[phiMin, phiMax] =   7.81463972,  20.63195619
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.000625000000
+m( 6) =   1, t( 6) =  0.020000000000
+m( 9) =  17, t( 9) =  0.166666666667
+Elapsed time is 0.184520 seconds.
+3, HancockKitchenOutside, Hasinoff, exposureSet = 1 6 9 
+image range: [5, 8]
+N = 1
+found = true, N = 1, maxValue = 199193.302123, exposureSet = 7 
+Elapsed time is 0.168424 seconds.
+1, HancockKitchenOutside, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 1:  0.000625000000
+ 5:  0.010000000000
+ 9:  0.166666666667
+2/616960 rows (0.0 percent) are zero
+Elapsed time is 0.321853 seconds.
+3, HancockKitchenOutside, SetCovering, exposureSet = 1 5 9 
+Elapsed time is 0.165439 seconds.
+3, HancockKitchenOutside, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    2.183, stops(2) =   -0.017, stops(3) =   -1.762
+discrete:   steps(1) =    2.000, steps(2) =   -0.000, steps(3) =   -2.000
+Elapsed time is 0.186778 seconds.
+3, HancockSeedField, Kehtarnavaz, exposureSet = 3 5 7 
+image range: [5, 6]
+[phiMin, phiMax] =   5.12276250,  15.57306250
+minP = 20, maxP = 230
+Elapsed time is 0.161798 seconds.
+2, HancockSeedField, Barakat, exposureSet = 3 8 
+image range: [5, 6]
+[phiMin, phiMax] =   5.12276250,  15.57306250
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.076923076923
+m( 9) =   1, t( 9) =  5.000000000000
+Elapsed time is 0.174855 seconds.
+2, HancockSeedField, Hasinoff, exposureSet = 3 9 
+image range: [5, 6]
+N = 1
+found = true, N = 1, maxValue = 352023.801232, exposureSet = 7 
+Elapsed time is 0.160444 seconds.
+1, HancockSeedField, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  5
+ 4:  0.166666666667
+ 5:  0.333333333333
+ 6:  0.500000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.323047 seconds.
+3, HancockSeedField, SetCovering, exposureSet = 4 5 6 
+Elapsed time is 0.158533 seconds.
+3, HancockSeedField, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    3.011, stops(2) =    0.485, stops(3) =   -1.154
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -1.000
+Elapsed time is 0.168243 seconds.
+3, HooverDam, Kehtarnavaz, exposureSet = 4 5 8 
+image range: [5, 6]
+[phiMin, phiMax] =   9.02109060,  19.89499060
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.150969 seconds.
+3, HooverDam, Barakat, exposureSet = 3 8 9 
+image range: [5, 6]
+[phiMin, phiMax] =   9.02109060,  19.89499060
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.004000000000
+m( 9) =   2, t( 9) =  0.250000000000
+Elapsed time is 0.161356 seconds.
+2, HooverDam, Hasinoff, exposureSet = 3 9 
+image range: [5, 6]
+N = 1
+found = true, N = 1, maxValue = 281695.377656, exposureSet = 7 
+Elapsed time is 0.149921 seconds.
+1, HooverDam, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  5
+ 5:  0.016666666667
+ 6:  0.033333333333
+ 8:  0.125000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.293457 seconds.
+3, HooverDam, SetCovering, exposureSet = 5 6 8 
+Elapsed time is 0.155468 seconds.
+3, HooverDam, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 8
+continuous: stops(1) =    2.617, stops(2) =    0.169, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.175328 seconds.
+2, HooverGarage, Kehtarnavaz, exposureSet = 5 8 
+image range: [1, 9]
+[phiMin, phiMax] =   3.11420000,  20.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.186917 seconds.
+4, HooverGarage, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   3.11420000,  20.95388428
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.008000000000
+m( 4) =   1, t( 4) =  0.066666666667
+m( 6) =   1, t( 6) =  0.250000000000
+m( 7) =   1, t( 7) =  0.500000000000
+m( 8) =   1, t( 8) =  1.000000000000
+m( 9) =  77, t( 9) =  2.000000000000
+Elapsed time is 0.201014 seconds.
+6, HooverGarage, Hasinoff, exposureSet = 1 4 6 7 8 9 
+image range: [1, 9]
+N = 1
+found = true, N = 1, maxValue = 80346.730322, exposureSet = 9 
+Elapsed time is 0.191504 seconds.
+1, HooverGarage, Seshadrinathan5, exposureSet = 9 
+minP = 20, maxP = 230
+ 1:  0.008000000000
+ 4:  0.066666666667
+ 9:  2.000000000000
+20/616960 rows (0.0 percent) are zero
+Elapsed time is 0.304486 seconds.
+3, HooverGarage, SetCovering, exposureSet = 1 4 9 
+Elapsed time is 0.152621 seconds.
+2, HooverGarage, Middle3 , exposureSet = 6 8 
+
+bestExposure = 7
+continuous: stops(1) =    3.011, stops(2) =    0.614, stops(3) =   -3.083
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.190487 seconds.
+2, JesseBrownsCabin, Kehtarnavaz, exposureSet = 4 8 
+image range: [1, 8]
+[phiMin, phiMax] =   6.85972809,  23.02211238
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.196721 seconds.
+4, JesseBrownsCabin, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =   6.85972809,  23.02211238
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.001562500000
+m( 8) =   2, t( 8) =  0.100000000000
+m( 9) =  43, t( 9) =  0.200000000000
+Elapsed time is 0.209103 seconds.
+3, JesseBrownsCabin, Hasinoff, exposureSet = 2 8 9 
+image range: [1, 8]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 167030.542396, exposureSet = 6 9 
+Elapsed time is 0.204399 seconds.
+2, JesseBrownsCabin, Seshadrinathan5, exposureSet = 6 9 
+minP = 20, maxP = 230
+ 1:  0.000800000000
+ 5:  0.012500000000
+ 9:  0.200000000000
+2/616960 rows (0.0 percent) are zero
+Elapsed time is 0.334838 seconds.
+3, JesseBrownsCabin, SetCovering, exposureSet = 1 5 9 
+Elapsed time is 0.168766 seconds.
+3, JesseBrownsCabin, Middle3 , exposureSet = 5 7 9 
+
+bestExposure = 8
+continuous: stops(1) =    2.829, stops(2) =    0.554, stops(3) =   -3.083
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.184061 seconds.
+2, KingsCanyon, Kehtarnavaz, exposureSet = 5 9 
+image range: [6, 9]
+[phiMin, phiMax] =   7.85972809,  20.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.164098 seconds.
+3, KingsCanyon, Barakat, exposureSet = 4 8 9 
+image range: [6, 9]
+[phiMin, phiMax] =   7.85972809,  20.31002809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.001562500000
+m( 9) =  44, t( 9) =  0.100000000000
+Elapsed time is 0.175441 seconds.
+2, KingsCanyon, Hasinoff, exposureSet = 3 9 
+image range: [6, 9]
+N = 1
+found = true, N = 1, maxValue = 92172.246491, exposureSet = 9 
+Elapsed time is 0.164358 seconds.
+1, KingsCanyon, Seshadrinathan5, exposureSet = 9 
+minP = 20, maxP = 230
+ 5:  0.006250000000
+ 9:  0.100000000000
+133/616960 rows (0.0 percent) are zero
+Elapsed time is 0.308259 seconds.
+2, KingsCanyon, SetCovering, exposureSet = 5 9 
+Elapsed time is 0.157323 seconds.
+2, KingsCanyon, Middle3 , exposureSet = 6 8 
+
+bestExposure = 6
+continuous: stops(1) =    4.624, stops(2) =    0.833, stops(3) =   -2.712
+discrete:   steps(1) =    5.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.175689 seconds.
+2, LabBooth, Kehtarnavaz, exposureSet = 3 7 
+image range: [1, 9]
+[phiMin, phiMax] =   5.43612809,  22.08132809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.190358 seconds.
+4, LabBooth, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   5.43612809,  22.08132809
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.001562500000
+m( 4) =   1, t( 4) =  0.012500000000
+m( 6) =   1, t( 6) =  0.050000000000
+m( 7) =   1, t( 7) =  0.100000000000
+m( 8) =   1, t( 8) =  0.200000000000
+m( 9) =  77, t( 9) =  0.400000000000
+Elapsed time is 0.203811 seconds.
+6, LabBooth, Hasinoff, exposureSet = 1 4 6 7 8 9 
+image range: [1, 9]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 186546.431224, exposureSet = 7 9 
+Elapsed time is 0.193315 seconds.
+2, LabBooth, Seshadrinathan5, exposureSet = 7 9 
+minP = 20, maxP = 230
+ 1:  0.001562500000
+ 2:  0.003125000000
+ 5:  0.025000000000
+ 9:  0.400000000000
+6129/616960 rows (1.0 percent) are zero
+Elapsed time is 0.311108 seconds.
+4, LabBooth, SetCovering, exposureSet = 1 2 5 9 
+Elapsed time is 0.155623 seconds.
+4, LabBooth, Middle5 , exposureSet = 2 4 6 8 
+
+bestExposure = 9
+continuous: stops(1) =    2.696, stops(2) =    0.671, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.158538 seconds.
+1, LabTypwriter, Kehtarnavaz, exposureSet = 6 
+image range: [1, 9]
+[phiMin, phiMax] =   1.16793750,  19.47995310
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.175264 seconds.
+4, LabTypwriter, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   1.16793750,  19.47995310
+Using second cost function: shutter speeds + overhead
+m( 1) =   3, t( 1) =  0.022222222222
+m( 2) =   1, t( 2) =  0.050000000000
+m( 3) =   1, t( 3) =  0.100000000000
+m( 9) = 127, t( 9) =  6.000000000000
+Elapsed time is 0.186806 seconds.
+4, LabTypwriter, Hasinoff, exposureSet = 1 2 3 9 
+image range: [1, 9]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 42593.630988, exposureSet = 4 9 
+Elapsed time is 0.180043 seconds.
+2, LabTypwriter, Seshadrinathan5, exposureSet = 4 9 
+minP = 20, maxP = 230
+ 1:  0.022222222222
+ 2:  0.050000000000
+ 5:  0.333333333333
+ 9:  6.000000000000
+10926/616960 rows (1.8 percent) are zero
+Elapsed time is 0.281678 seconds.
+4, LabTypwriter, SetCovering, exposureSet = 1 2 5 9 
+Elapsed time is 0.138796 seconds.
+3, LabTypwriter, Middle5 , exposureSet = 5 7 9 
+
+bestExposure = 7
+continuous: stops(1) =    3.925, stops(2) =    0.614, stops(3) =   -3.146
+discrete:   steps(1) =    4.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.164044 seconds.
+2, LabWindow, Kehtarnavaz, exposureSet = 4 8 
+image range: [1, 8]
+[phiMin, phiMax] =   7.23823972,  23.75098428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.171057 seconds.
+4, LabWindow, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =   7.23823972,  23.75098428
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.001000000000
+m( 8) =   1, t( 8) =  0.076923076923
+m( 9) =  37, t( 9) =  0.166666666667
+Elapsed time is 0.182249 seconds.
+3, LabWindow, Hasinoff, exposureSet = 2 8 9 
+image range: [1, 8]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 152078.784685, exposureSet = 6 9 
+Elapsed time is 0.179028 seconds.
+2, LabWindow, Seshadrinathan5, exposureSet = 6 9 
+minP = 20, maxP = 230
+ 1:  0.000500000000
+ 4:  0.005000000000
+ 9:  0.166666666667
+69/616960 rows (0.0 percent) are zero
+Elapsed time is 0.293558 seconds.
+3, LabWindow, SetCovering, exposureSet = 1 4 9 
+Elapsed time is 0.153988 seconds.
+3, LabWindow, Middle3 , exposureSet = 5 7 9 
+
+bestExposure = 6
+continuous: stops(1) =    3.324, stops(2) =    0.779, stops(3) =   -2.847
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.181867 seconds.
+3, LadyBirdRedwoods, Kehtarnavaz, exposureSet = 3 7 9 
+image range: [1, 9]
+[phiMin, phiMax] =   3.43612809,  19.92662809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.193258 seconds.
+4, LadyBirdRedwoods, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   3.43612809,  19.92662809
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.012500000000
+m( 8) =   2, t( 8) =  0.769230769231
+m( 9) =  77, t( 9) =  1.600000000000
+Elapsed time is 0.209566 seconds.
+3, LadyBirdRedwoods, Hasinoff, exposureSet = 2 8 9 
+image range: [1, 9]
+N = 1
+found = true, N = 1, maxValue = 100831.299022, exposureSet = 8 
+Elapsed time is 0.196113 seconds.
+1, LadyBirdRedwoods, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+ 1:  0.006250000000
+ 3:  0.025000000000
+ 5:  0.100000000000
+ 7:  0.400000000000
+ 9:  1.600000000000
+1/616960 rows (0.0 percent) are zero
+Elapsed time is 0.333282 seconds.
+5, LadyBirdRedwoods, SetCovering, exposureSet = 1 3 5 7 9 
+Elapsed time is 0.159197 seconds.
+4, LadyBirdRedwoods, Middle5 , exposureSet = 2 4 6 8 
+
+bestExposure = 9
+continuous: stops(1) =    3.925, stops(2) =    0.614, stops(3) =   -2.847
+discrete:   steps(1) =    4.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.164129 seconds.
+1, LasVegasStore, Kehtarnavaz, exposureSet = 6 
+image range: [1, 9]
+[phiMin, phiMax] =   4.85972809,  23.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.177901 seconds.
+4, LasVegasStore, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   4.85972809,  23.31002809
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.001562500000
+m( 3) =   1, t( 3) =  0.006250000000
+m( 9) = 171, t( 9) =  0.400000000000
+Elapsed time is 0.191807 seconds.
+3, LasVegasStore, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 9]
+N = 1
+N = 2
+N = 3
+N = 4
+N = 5
+found = false, N = 5, maxValue = 58647.701431, exposureSet = 5 6 7 8 9 
+Elapsed time is 0.221194 seconds.
+5, LasVegasStore, Seshadrinathan5, exposureSet = 5 6 7 8 9 
+minP = 20, maxP = 230
+ 1:  0.001562500000
+ 2:  0.003125000000
+ 4:  0.012500000000
+ 5:  0.025000000000
+ 6:  0.050000000000
+ 7:  0.100000000000
+ 8:  0.200000000000
+ 9:  0.400000000000
+121796/616960 rows (19.7 percent) are zero
+Elapsed time is 0.274941 seconds.
+8, LasVegasStore, SetCovering, exposureSet = 1 2 4 5 6 7 8 9 
+Elapsed time is 0.144991 seconds.
+5, LasVegasStore, Middle9 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 7
+continuous: stops(1) =    2.655, stops(2) =    0.908, stops(3) =   -3.390
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.161637 seconds.
+2, LetchworthTeaTable1, Kehtarnavaz, exposureSet = 4 8 
+image range: [1, 8]
+[phiMin, phiMax] =   9.66689060,  25.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.169989 seconds.
+4, LetchworthTeaTable1, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =   9.66689060,  25.95388428
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.000250000000
+m( 3) =   1, t( 3) =  0.001000000000
+m( 9) =   9, t( 9) =  0.066666666667
+Elapsed time is 0.181692 seconds.
+3, LetchworthTeaTable1, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 8]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 172641.536104, exposureSet = 5 9 
+Elapsed time is 0.173516 seconds.
+2, LetchworthTeaTable1, Seshadrinathan5, exposureSet = 5 9 
+minP = 20, maxP = 230
+ 1:  0.000250000000
+ 5:  0.004000000000
+ 9:  0.066666666667
+829/616960 rows (0.1 percent) are zero
+Elapsed time is 0.292759 seconds.
+3, LetchworthTeaTable1, SetCovering, exposureSet = 1 5 9 
+Elapsed time is 0.142695 seconds.
+3, LetchworthTeaTable1, Middle3 , exposureSet = 5 7 9 
+
+bestExposure = 7
+continuous: stops(1) =    2.548, stops(2) =    1.078, stops(3) =   -3.390
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.160005 seconds.
+2, LetchworthTeaTable2, Kehtarnavaz, exposureSet = 4 8 
+image range: [3, 7]
+[phiMin, phiMax] =   6.12276250,  20.63195619
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.152031 seconds.
+4, LetchworthTeaTable2, Barakat, exposureSet = 1 6 8 9 
+image range: [3, 7]
+[phiMin, phiMax] =   6.12276250,  20.63195619
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.010000000000
+m( 9) =  13, t( 9) =  0.625000000000
+Elapsed time is 0.164920 seconds.
+2, LetchworthTeaTable2, Hasinoff, exposureSet = 3 9 
+image range: [3, 7]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 256152.031982, exposureSet = 5 6 
+Elapsed time is 0.159498 seconds.
+2, LetchworthTeaTable2, Seshadrinathan5, exposureSet = 5 6 
+minP = 20, maxP = 230
+ 2:  0.005000000000
+ 5:  0.040000000000
+ 8:  0.333333333333
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.283579 seconds.
+3, LetchworthTeaTable2, SetCovering, exposureSet = 2 5 8 
+Elapsed time is 0.144339 seconds.
+3, LetchworthTeaTable2, Middle3 , exposureSet = 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    3.324, stops(2) =    0.633, stops(3) =   -2.803
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.201038 seconds.
+3, LittleRiver, Kehtarnavaz, exposureSet = 2 6 8 
+image range: [2, 7]
+[phiMin, phiMax] =   4.85972809,  19.24842809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.196351 seconds.
+4, LittleRiver, Barakat, exposureSet = 1 6 8 9 
+image range: [2, 7]
+[phiMin, phiMax] =   4.85972809,  19.24842809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.025000000000
+m( 9) =  13, t( 9) =  1.500000000000
+Elapsed time is 0.202139 seconds.
+2, LittleRiver, Hasinoff, exposureSet = 3 9 
+image range: [2, 7]
+N = 1
+found = true, N = 1, maxValue = 87141.433052, exposureSet = 6 
+Elapsed time is 0.191985 seconds.
+1, LittleRiver, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 1:  0.006250000000
+ 2:  0.012500000000
+ 4:  0.050000000000
+ 6:  0.200000000000
+ 8:  0.769230769231
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.338121 seconds.
+5, LittleRiver, SetCovering, exposureSet = 1 2 4 6 8 
+Elapsed time is 0.173071 seconds.
+5, LittleRiver, Middle5 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 13
+continuous: stops(1) =    2.383, stops(2) =    0.238, stops(3) =   -3.146
+discrete:   steps(1) =    2.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.283756 seconds.
+3, LuxoDoubleChecker, Kehtarnavaz, exposureSet = 10 13 15 
+image range: [1, 12]
+[phiMin, phiMax] =   2.21587191,  23.63195619
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.324186 seconds.
+6, LuxoDoubleChecker, Barakat, exposureSet = 1 5 10 15 16 18 
+image range: [1, 12]
+[phiMin, phiMax] =   2.21587191,  23.63195619
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.001250000000
+m( 6) =   1, t( 6) =  0.050000000000
+m( 7) =   1, t( 7) =  0.100000000000
+m( 8) =   1, t( 8) =  0.166666666667
+m(15) =   1, t(15) = 20.000000000000
+m(18) =   1, t(18) = 30.000000000000
+Elapsed time is 0.332743 seconds.
+6, LuxoDoubleChecker, Hasinoff, exposureSet = 1 6 7 8 15 18 
+image range: [1, 12]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 161988.560158, exposureSet = 13 16 
+Elapsed time is 0.325358 seconds.
+2, LuxoDoubleChecker, Seshadrinathan5, exposureSet = 13 16 
+minP = 20, maxP = 230
+ 1:  0.001250000000
+ 5:  0.022222222222
+ 7:  0.100000000000
+10:  0.666666666667
+14: 10.000000000000
+14/616960 rows (0.0 percent) are zero
+Elapsed time is 0.437955 seconds.
+5, LuxoDoubleChecker, SetCovering, exposureSet = 1 5 7 10 14 
+Elapsed time is 0.257753 seconds.
+5, LuxoDoubleChecker, Middle5 , exposureSet = 9 11 13 15 17 
+
+bestExposure = 5
+continuous: stops(1) =    3.162, stops(2) =    0.083, stops(3) =   -1.762
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -2.000
+Elapsed time is 0.182368 seconds.
+3, M3MiddlePond, Kehtarnavaz, exposureSet = 3 5 8 
+image range: [1, 8]
+[phiMin, phiMax] =   7.44469060,  23.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.187494 seconds.
+4, M3MiddlePond, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =   7.44469060,  23.95388428
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.001000000000
+m( 3) =   1, t( 3) =  0.004000000000
+m( 9) =  13, t( 9) =  0.250000000000
+Elapsed time is 0.197966 seconds.
+3, M3MiddlePond, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 8]
+N = 1
+found = true, N = 1, maxValue = 200967.673734, exposureSet = 7 
+Elapsed time is 0.191933 seconds.
+1, M3MiddlePond, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 1:  0.001000000000
+ 5:  0.016666666667
+ 6:  0.033333333333
+ 9:  0.250000000000
+7/616960 rows (0.0 percent) are zero
+Elapsed time is 0.320536 seconds.
+4, M3MiddlePond, SetCovering, exposureSet = 1 5 6 9 
+Elapsed time is 0.161607 seconds.
+5, M3MiddlePond, Middle5 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 6
+continuous: stops(1) =    2.268, stops(2) =   -0.462, stops(3) =   -2.847
+discrete:   steps(1) =    2.000, steps(2) =   -0.000, steps(3) =   -3.000
+Elapsed time is 0.179148 seconds.
+3, MackinacBridge, Kehtarnavaz, exposureSet = 3 6 8 
+image range: [5, 6]
+[phiMin, phiMax] =   9.50552809,  18.27705310
+minP = 20, maxP = 230
+Elapsed time is 0.156989 seconds.
+2, MackinacBridge, Barakat, exposureSet = 4 8 
+image range: [5, 6]
+[phiMin, phiMax] =   9.50552809,  18.27705310
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.005555555556
+m( 9) =   1, t( 9) =  0.333333333333
+Elapsed time is 0.167719 seconds.
+2, MackinacBridge, Hasinoff, exposureSet = 3 9 
+image range: [5, 6]
+N = 1
+found = true, N = 1, maxValue = 529568.032177, exposureSet = 8 
+Elapsed time is 0.156457 seconds.
+1, MackinacBridge, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+Adding bestExposure =  4
+ 4:  0.011111111111
+ 7:  0.100000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.313783 seconds.
+2, MackinacBridge, SetCovering, exposureSet = 4 7 
+Elapsed time is 0.155755 seconds.
+3, MackinacBridge, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    2.924, stops(2) =    0.690, stops(3) =   -2.403
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -2.000
+Elapsed time is 0.177601 seconds.
+3, MammothHotSprings, Kehtarnavaz, exposureSet = 3 6 8 
+image range: [1, 6]
+[phiMin, phiMax] =  10.02965310,  23.25814679
+minP = 20, maxP = 230
+Elapsed time is 0.173870 seconds.
+3, MammothHotSprings, Barakat, exposureSet = 1 6 8 
+image range: [1, 6]
+[phiMin, phiMax] =  10.02965310,  23.25814679
+Using second cost function: shutter speeds + overhead
+m( 2) =   2, t( 2) =  0.001333333333
+m( 9) =   1, t( 9) =  0.166666666667
+Elapsed time is 0.184836 seconds.
+2, MammothHotSprings, Hasinoff, exposureSet = 2 9 
+image range: [1, 6]
+N = 1
+found = true, N = 1, maxValue = 134780.052208, exposureSet = 6 
+Elapsed time is 0.172990 seconds.
+1, MammothHotSprings, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 1:  0.000666666667
+ 5:  0.011111111111
+ 7:  0.050000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.314025 seconds.
+3, MammothHotSprings, SetCovering, exposureSet = 1 5 7 
+Elapsed time is 0.157941 seconds.
+3, MammothHotSprings, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    3.493, stops(2) =    0.220, stops(3) =   -1.649
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -2.000
+Elapsed time is 0.186881 seconds.
+3, MasonLake1, Kehtarnavaz, exposureSet = 3 5 8 
+image range: [5, 7]
+[phiMin, phiMax] =   9.43612809,  21.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.172478 seconds.
+3, MasonLake1, Barakat, exposureSet = 3 8 9 
+image range: [5, 7]
+[phiMin, phiMax] =   9.43612809,  21.31002809
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.000800000000
+m( 8) =   1, t( 8) =  0.050000000000
+m( 9) =   5, t( 9) =  0.100000000000
+Elapsed time is 0.182606 seconds.
+3, MasonLake1, Hasinoff, exposureSet = 2 8 9 
+image range: [5, 7]
+N = 1
+found = true, N = 1, maxValue = 259160.501939, exposureSet = 7 
+Elapsed time is 0.169945 seconds.
+1, MasonLake1, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  5
+ 4:  0.003125000000
+ 5:  0.006250000000
+ 8:  0.050000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.323912 seconds.
+3, MasonLake1, SetCovering, exposureSet = 4 5 8 
+Elapsed time is 0.166962 seconds.
+3, MasonLake1, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 4
+continuous: stops(1) =    3.162, stops(2) =    0.908, stops(3) =   -1.465
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -1.000
+Elapsed time is 0.188097 seconds.
+3, MasonLake2, Kehtarnavaz, exposureSet = 3 5 7 
+image range: [1, 5]
+[phiMin, phiMax] =  10.18165619,  21.39365619
+minP = 20, maxP = 230
+Elapsed time is 0.175567 seconds.
+3, MasonLake2, Barakat, exposureSet = 2 7 8 
+image range: [1, 5]
+[phiMin, phiMax] =  10.18165619,  21.39365619
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.002500000000
+m( 9) =   1, t( 9) =  0.166666666667
+Elapsed time is 0.187077 seconds.
+2, MasonLake2, Hasinoff, exposureSet = 3 9 
+image range: [1, 5]
+N = 1
+found = true, N = 1, maxValue = 199225.700391, exposureSet = 6 
+Elapsed time is 0.174210 seconds.
+1, MasonLake2, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 1:  0.000625000000
+ 5:  0.010000000000
+ 6:  0.020000000000
+3/616960 rows (0.0 percent) are zero
+Elapsed time is 0.320598 seconds.
+3, MasonLake2, SetCovering, exposureSet = 1 5 6 
+Elapsed time is 0.164707 seconds.
+3, MasonLake2, Middle3 , exposureSet = 2 4 6 
+
+bestExposure = 5
+continuous: stops(1) =    3.582, stops(2) =    0.724, stops(3) =   -2.712
+discrete:   steps(1) =    4.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.160167 seconds.
+2, McKeesPub, Kehtarnavaz, exposureSet = 2 6 
+image range: [1, 8]
+[phiMin, phiMax] =  -0.36909060,  15.98810000
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.169265 seconds.
+4, McKeesPub, Barakat, exposureSet = 1 6 7 8 
+image range: [1, 8]
+[phiMin, phiMax] =  -0.36909060,  15.98810000
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.250000000000
+m( 7) =   2, t( 7) = 15.000000000000
+m( 8) =  43, t( 8) = 30.000000000000
+Elapsed time is 0.182653 seconds.
+3, McKeesPub, Hasinoff, exposureSet = 1 7 8 
+image range: [1, 8]
+N = 1
+found = true, N = 1, maxValue = 85860.406147, exposureSet = 7 
+Elapsed time is 0.168027 seconds.
+1, McKeesPub, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 1:  0.250000000000
+ 3:  1.000000000000
+ 5:  4.000000000000
+ 6:  8.000000000000
+ 7: 15.000000000000
+ 8: 30.000000000000
+882/616960 rows (0.1 percent) are zero
+Elapsed time is 0.282544 seconds.
+6, McKeesPub, SetCovering, exposureSet = 1 3 5 6 7 8 
+Elapsed time is 0.140128 seconds.
+4, McKeesPub, Middle7 , exposureSet = 1 3 5 7 
+
+bestExposure = 4
+continuous: stops(1) =    3.493, stops(2) =    0.745, stops(3) =   -1.137
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -1.000
+Elapsed time is 0.185685 seconds.
+3, MiddlePond, Kehtarnavaz, exposureSet = 3 5 7 
+image range: [3, 6]
+[phiMin, phiMax] =   9.40385619,  19.88455619
+minP = 20, maxP = 230
+Elapsed time is 0.172244 seconds.
+2, MiddlePond, Barakat, exposureSet = 3 8 
+image range: [3, 6]
+[phiMin, phiMax] =   9.40385619,  19.88455619
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.005000000000
+m( 9) =   1, t( 9) =  0.333333333333
+Elapsed time is 0.183223 seconds.
+2, MiddlePond, Hasinoff, exposureSet = 3 9 
+image range: [3, 6]
+N = 1
+found = true, N = 1, maxValue = 256433.749726, exposureSet = 6 
+Elapsed time is 0.169561 seconds.
+1, MiddlePond, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+Adding bestExposure =  4
+ 2:  0.002500000000
+ 4:  0.010000000000
+ 6:  0.040000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.320545 seconds.
+3, MiddlePond, SetCovering, exposureSet = 2 4 6 
+Elapsed time is 0.163272 seconds.
+3, MiddlePond, Middle3 , exposureSet = 2 4 6 
+
+bestExposure = 5
+continuous: stops(1) =    3.162, stops(2) =    0.779, stops(3) =   -1.787
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -2.000
+Elapsed time is 0.189150 seconds.
+3, MirrorLake, Kehtarnavaz, exposureSet = 3 6 8 
+image range: [4, 7]
+[phiMin, phiMax] =   7.43612809,  20.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.173558 seconds.
+4, MirrorLake, Barakat, exposureSet = 2 7 8 9 
+image range: [4, 7]
+[phiMin, phiMax] =   7.43612809,  20.31002809
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.003125000000
+m( 8) =   1, t( 8) =  0.200000000000
+m( 9) =   5, t( 9) =  0.400000000000
+Elapsed time is 0.183732 seconds.
+3, MirrorLake, Hasinoff, exposureSet = 2 8 9 
+image range: [4, 7]
+N = 1
+found = true, N = 1, maxValue = 157852.308396, exposureSet = 7 
+Elapsed time is 0.172412 seconds.
+1, MirrorLake, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 2:  0.003125000000
+ 5:  0.025000000000
+ 8:  0.200000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.325290 seconds.
+3, MirrorLake, SetCovering, exposureSet = 2 5 8 
+Elapsed time is 0.167460 seconds.
+3, MirrorLake, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 6
+continuous: stops(1) =    2.696, stops(2) =    0.724, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.167905 seconds.
+3, MtRushmore1, Kehtarnavaz, exposureSet = 3 7 9 
+image range: [1, 7]
+[phiMin, phiMax] =   5.85972809,  21.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.168276 seconds.
+4, MtRushmore1, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 7]
+[phiMin, phiMax] =   5.85972809,  21.31002809
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.006250000000
+m( 6) =   1, t( 6) =  0.200000000000
+m( 9) =   3, t( 9) =  1.600000000000
+Elapsed time is 0.181936 seconds.
+3, MtRushmore1, Hasinoff, exposureSet = 1 6 9 
+image range: [1, 7]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 177037.765081, exposureSet = 6 9 
+Elapsed time is 0.173741 seconds.
+2, MtRushmore1, Seshadrinathan5, exposureSet = 6 9 
+minP = 20, maxP = 230
+ 1:  0.006250000000
+ 4:  0.050000000000
+ 7:  0.400000000000
+4744/616960 rows (0.8 percent) are zero
+Elapsed time is 0.296612 seconds.
+3, MtRushmore1, SetCovering, exposureSet = 1 4 7 
+Elapsed time is 0.149386 seconds.
+3, MtRushmore1, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 6
+continuous: stops(1) =    2.829, stops(2) =    0.169, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.161738 seconds.
+3, MtRushmore2, Kehtarnavaz, exposureSet = 3 6 9 
+image range: [1, 8]
+[phiMin, phiMax] =   5.53780000,  20.20688428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.177477 seconds.
+4, MtRushmore2, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =   5.53780000,  20.20688428
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.008000000000
+m( 8) =   1, t( 8) =  0.500000000000
+m( 9) =  11, t( 9) =  1.000000000000
+Elapsed time is 0.204909 seconds.
+3, MtRushmore2, Hasinoff, exposureSet = 2 8 9 
+image range: [1, 8]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 233142.352180, exposureSet = 6 7 
+Elapsed time is 0.176649 seconds.
+2, MtRushmore2, Seshadrinathan5, exposureSet = 6 7 
+minP = 20, maxP = 230
+ 1:  0.004000000000
+ 4:  0.033333333333
+ 8:  0.500000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.284769 seconds.
+3, MtRushmore2, SetCovering, exposureSet = 1 4 8 
+Elapsed time is 0.143607 seconds.
+3, MtRushmore2, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    3.958, stops(2) =    0.908, stops(3) =   -2.187
+discrete:   steps(1) =    4.000, steps(2) =    1.000, steps(3) =   -2.000
+Elapsed time is 0.181046 seconds.
+3, MtRushmoreFlags, Kehtarnavaz, exposureSet = 3 6 9 
+image range: [1, 9]
+[phiMin, phiMax] =   0.41376028,  18.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.197180 seconds.
+4, MtRushmoreFlags, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   0.41376028,  18.31002809
+Using second cost function: shutter speeds + overhead
+m( 1) =   2, t( 1) =  0.050000000000
+m( 8) =   2, t( 8) =  6.000000000000
+m( 9) =  77, t( 9) = 13.000000000000
+Elapsed time is 0.205151 seconds.
+3, MtRushmoreFlags, Hasinoff, exposureSet = 1 8 9 
+image range: [1, 9]
+N = 1
+found = true, N = 1, maxValue = 82918.394012, exposureSet = 7 
+Elapsed time is 0.195830 seconds.
+1, MtRushmoreFlags, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 1:  0.050000000000
+ 4:  0.400000000000
+ 6:  1.600000000000
+ 7:  3.000000000000
+ 9: 13.000000000000
+256/616960 rows (0.0 percent) are zero
+Elapsed time is 0.313293 seconds.
+5, MtRushmoreFlags, SetCovering, exposureSet = 1 4 6 7 9 
+Elapsed time is 0.161055 seconds.
+5, MtRushmoreFlags, Middle5 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    2.183, stops(2) =   -0.193, stops(3) =   -2.056
+discrete:   steps(1) =    2.000, steps(2) =   -0.000, steps(3) =   -2.000
+Elapsed time is 0.166772 seconds.
+3, NiagaraFalls, Kehtarnavaz, exposureSet = 3 5 7 
+image range: [4, 6]
+[phiMin, phiMax] =   9.02965310,  21.47995310
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.150077 seconds.
+4, NiagaraFalls, Barakat, exposureSet = 2 7 8 9 
+image range: [4, 6]
+[phiMin, phiMax] =   9.02965310,  21.47995310
+Using second cost function: shutter speeds + overhead
+m( 4) =   1, t( 4) =  0.005555555556
+m( 6) =   1, t( 6) =  0.022222222222
+m( 8) =   1, t( 8) =  0.100000000000
+m( 9) =   3, t( 9) =  0.166666666667
+Elapsed time is 0.165327 seconds.
+4, NiagaraFalls, Hasinoff, exposureSet = 4 6 8 9 
+image range: [4, 6]
+N = 1
+found = true, N = 1, maxValue = 193029.152280, exposureSet = 6 
+Elapsed time is 0.153336 seconds.
+1, NiagaraFalls, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+Adding bestExposure =  4
+ 4:  0.005555555556
+ 7:  0.050000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.295297 seconds.
+2, NiagaraFalls, SetCovering, exposureSet = 4 7 
+Elapsed time is 0.146183 seconds.
+3, NiagaraFalls, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    3.240, stops(2) =    0.312, stops(3) =   -1.305
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -1.000
+Elapsed time is 0.172199 seconds.
+3, NorthBubble, Kehtarnavaz, exposureSet = 4 5 8 
+image range: [5, 8]
+[phiMin, phiMax] =   6.43612809,  18.24842809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.161425 seconds.
+3, NorthBubble, Barakat, exposureSet = 4 8 9 
+image range: [5, 8]
+[phiMin, phiMax] =   6.43612809,  18.24842809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.006250000000
+m( 9) =  20, t( 9) =  0.400000000000
+Elapsed time is 0.173699 seconds.
+2, NorthBubble, Hasinoff, exposureSet = 3 9 
+image range: [5, 8]
+N = 1
+found = true, N = 1, maxValue = 301925.128597, exposureSet = 7 
+Elapsed time is 0.161483 seconds.
+1, NorthBubble, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 3:  0.006250000000
+ 6:  0.050000000000
+ 9:  0.400000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.308887 seconds.
+3, NorthBubble, SetCovering, exposureSet = 3 6 9 
+Elapsed time is 0.154531 seconds.
+3, NorthBubble, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 3
+continuous: stops(1) =    3.615, stops(2) =   -0.394, stops(3) =   -3.029
+discrete:   steps(1) =    4.000, steps(2) =   -0.000, steps(3) =   -3.000
+Elapsed time is 0.140448 seconds.
+2, OCanadaLights, Kehtarnavaz, exposureSet = 3 7 
+image range: [1, 7]
+[phiMin, phiMax] =   3.73568838,  19.47995310
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.144733 seconds.
+4, OCanadaLights, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 7]
+[phiMin, phiMax] =   3.73568838,  19.47995310
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.022222222222
+m( 3) =   1, t( 3) =  0.100000000000
+m( 9) =   4, t( 9) =  6.000000000000
+Elapsed time is 0.158374 seconds.
+3, OCanadaLights, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 7]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 259802.836622, exposureSet = 4 9 
+Elapsed time is 0.149417 seconds.
+2, OCanadaLights, Seshadrinathan5, exposureSet = 4 9 
+minP = 20, maxP = 230
+ 1:  0.022222222222
+ 3:  0.100000000000
+ 6:  0.769230769231
+ 8:  2.500000000000
+1483/616960 rows (0.2 percent) are zero
+Elapsed time is 0.274364 seconds.
+4, OCanadaLights, SetCovering, exposureSet = 1 3 6 8 
+Elapsed time is 0.125022 seconds.
+4, OCanadaLights, Middle5 , exposureSet = 1 3 5 7 
+
+bestExposure = 4
+continuous: stops(1) =    3.748, stops(2) =   -0.862, stops(3) =   -3.083
+discrete:   steps(1) =    4.000, steps(2) =   -1.000, steps(3) =   -3.000
+Elapsed time is 0.140488 seconds.
+3, OCanadaNoLights, Kehtarnavaz, exposureSet = 1 3 8 
+image range: [2, 8]
+[phiMin, phiMax] =   5.69916250,  20.25125310
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.145734 seconds.
+4, OCanadaNoLights, Barakat, exposureSet = 1 5 8 9 
+image range: [2, 8]
+[phiMin, phiMax] =   5.69916250,  20.25125310
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.011111111111
+m( 9) =  20, t( 9) =  0.666666666667
+Elapsed time is 0.157695 seconds.
+2, OCanadaNoLights, Hasinoff, exposureSet = 3 9 
+image range: [2, 8]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 285612.304082, exposureSet = 5 6 
+Elapsed time is 0.149252 seconds.
+2, OCanadaNoLights, Seshadrinathan5, exposureSet = 5 6 
+minP = 20, maxP = 230
+ 2:  0.005555555556
+ 5:  0.050000000000
+ 9:  0.666666666667
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.271196 seconds.
+3, OCanadaNoLights, SetCovering, exposureSet = 2 5 9 
+Elapsed time is 0.128708 seconds.
+3, OCanadaNoLights, Middle3 , exposureSet = 2 4 6 
+
+bestExposure = 5
+continuous: stops(1) =    2.924, stops(2) =    0.159, stops(3) =   -3.083
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.169833 seconds.
+3, OldFaithfulInn, Kehtarnavaz, exposureSet = 2 5 8 
+image range: [1, 6]
+[phiMin, phiMax] =   7.43612809,  22.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.168423 seconds.
+4, OldFaithfulInn, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 6]
+[phiMin, phiMax] =   7.43612809,  22.31002809
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.003125000000
+m( 3) =   1, t( 3) =  0.012500000000
+m( 9) =   2, t( 9) =  0.769230769231
+Elapsed time is 0.178373 seconds.
+3, OldFaithfulInn, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 6]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 235413.813871, exposureSet = 5 9 
+Elapsed time is 0.172748 seconds.
+2, OldFaithfulInn, Seshadrinathan5, exposureSet = 5 9 
+minP = 20, maxP = 230
+ 1:  0.003125000000
+ 4:  0.025000000000
+ 7:  0.200000000000
+262/616960 rows (0.0 percent) are zero
+Elapsed time is 0.306755 seconds.
+3, OldFaithfulInn, SetCovering, exposureSet = 1 4 7 
+Elapsed time is 0.156924 seconds.
+3, OldFaithfulInn, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 4
+continuous: stops(1) =    3.582, stops(2) =   -0.033, stops(3) =   -3.029
+discrete:   steps(1) =    4.000, steps(2) =   -0.000, steps(3) =   -3.000
+Elapsed time is 0.178140 seconds.
+3, OtterPoint, Kehtarnavaz, exposureSet = 1 4 8 
+image range: [1, 6]
+[phiMin, phiMax] =   9.85972809,  25.27581238
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.166038 seconds.
+4, OtterPoint, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 6]
+[phiMin, phiMax] =   9.85972809,  25.27581238
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.000400000000
+m( 6) =   1, t( 6) =  0.012500000000
+m( 9) =   3, t( 9) =  0.100000000000
+Elapsed time is 0.177337 seconds.
+3, OtterPoint, Hasinoff, exposureSet = 1 6 9 
+image range: [1, 6]
+N = 1
+found = true, N = 1, maxValue = 194747.605860, exposureSet = 6 
+Elapsed time is 0.165807 seconds.
+1, OtterPoint, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 1:  0.000400000000
+ 2:  0.000800000000
+ 3:  0.001562500000
+ 4:  0.003125000000
+ 6:  0.012500000000
+ 7:  0.025000000000
+104/616960 rows (0.0 percent) are zero
+Elapsed time is 0.299822 seconds.
+6, OtterPoint, SetCovering, exposureSet = 1 2 3 4 6 7 
+Elapsed time is 0.149162 seconds.
+4, OtterPoint, Middle7 , exposureSet = 2 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    2.963, stops(2) =    0.000, stops(3) =   -2.440
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -2.000
+Elapsed time is 0.177140 seconds.
+3, PaulBunyan, Kehtarnavaz, exposureSet = 3 5 8 
+image range: [4, 7]
+[phiMin, phiMax] =   8.02109060,  20.09678428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.162129 seconds.
+3, PaulBunyan, Barakat, exposureSet = 3 8 9 
+image range: [4, 7]
+[phiMin, phiMax] =   8.02109060,  20.09678428
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.004000000000
+m( 9) =   6, t( 9) =  0.250000000000
+Elapsed time is 0.174074 seconds.
+2, PaulBunyan, Hasinoff, exposureSet = 3 9 
+image range: [4, 7]
+N = 1
+found = true, N = 1, maxValue = 301177.676890, exposureSet = 7 
+Elapsed time is 0.164150 seconds.
+1, PaulBunyan, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 3:  0.004000000000
+ 5:  0.016666666667
+ 8:  0.125000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.312011 seconds.
+3, PaulBunyan, SetCovering, exposureSet = 3 5 8 
+Elapsed time is 0.156573 seconds.
+3, PaulBunyan, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    3.493, stops(2) =    0.312, stops(3) =   -2.753
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.181831 seconds.
+3, PeckLake, Kehtarnavaz, exposureSet = 2 5 8 
+image range: [4, 8]
+[phiMin, phiMax] =   7.85972809,  21.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.171215 seconds.
+4, PeckLake, Barakat, exposureSet = 2 7 8 9 
+image range: [4, 8]
+[phiMin, phiMax] =   7.85972809,  21.31002809
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.001562500000
+m( 8) =   1, t( 8) =  0.100000000000
+m( 9) =  11, t( 9) =  0.200000000000
+Elapsed time is 0.182630 seconds.
+3, PeckLake, Hasinoff, exposureSet = 2 8 9 
+image range: [4, 8]
+N = 1
+found = true, N = 1, maxValue = 173513.930306, exposureSet = 7 
+Elapsed time is 0.173822 seconds.
+1, PeckLake, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 3:  0.003125000000
+ 6:  0.025000000000
+ 8:  0.100000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.313323 seconds.
+3, PeckLake, SetCovering, exposureSet = 3 6 8 
+Elapsed time is 0.160946 seconds.
+3, PeckLake, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 9
+continuous: stops(1) =    3.162, stops(2) =    0.330, stops(3) =   -2.803
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.171589 seconds.
+2, Peppermill, Kehtarnavaz, exposureSet = 6 9 
+image range: [1, 9]
+[phiMin, phiMax] =   4.53780000,  22.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.184319 seconds.
+4, Peppermill, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   4.53780000,  22.95388428
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.002000000000
+m( 2) =   1, t( 2) =  0.005000000000
+m( 9) = 171, t( 9) =  0.500000000000
+Elapsed time is 0.197735 seconds.
+3, Peppermill, Hasinoff, exposureSet = 1 2 9 
+image range: [1, 9]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 65096.384758, exposureSet = 8 9 
+Elapsed time is 0.193820 seconds.
+2, Peppermill, Seshadrinathan5, exposureSet = 8 9 
+minP = 20, maxP = 230
+ 1:  0.002000000000
+ 2:  0.005000000000
+ 3:  0.008000000000
+ 5:  0.033333333333
+ 6:  0.066666666667
+ 7:  0.125000000000
+ 8:  0.250000000000
+ 9:  0.500000000000
+40562/616960 rows (6.6 percent) are zero
+Elapsed time is 0.298079 seconds.
+8, Peppermill, SetCovering, exposureSet = 1 2 3 5 6 7 8 9 
+Elapsed time is 0.156814 seconds.
+5, Peppermill, Middle9 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    3.615, stops(2) =    1.215, stops(3) =   -0.969
+discrete:   steps(1) =    4.000, steps(2) =    1.000, steps(3) =   -1.000
+Elapsed time is 0.192013 seconds.
+3, Petroglyphs, Kehtarnavaz, exposureSet = 4 6 9 
+image range: [5, 7]
+[phiMin, phiMax] =   8.02109060,  19.89499060
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.170027 seconds.
+3, Petroglyphs, Barakat, exposureSet = 3 8 9 
+image range: [5, 7]
+[phiMin, phiMax] =   8.02109060,  19.89499060
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.004000000000
+m( 9) =   6, t( 9) =  0.250000000000
+Elapsed time is 0.181594 seconds.
+2, Petroglyphs, Hasinoff, exposureSet = 3 9 
+image range: [5, 7]
+N = 1
+found = true, N = 1, maxValue = 156180.110666, exposureSet = 7 
+Elapsed time is 0.168557 seconds.
+1, Petroglyphs, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 4:  0.008000000000
+ 5:  0.016666666667
+ 8:  0.125000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.321751 seconds.
+3, Petroglyphs, SetCovering, exposureSet = 4 5 8 
+Elapsed time is 0.165512 seconds.
+3, Petroglyphs, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    2.924, stops(2) =    0.115, stops(3) =   -1.737
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -2.000
+Elapsed time is 0.172615 seconds.
+3, RITTiger, Kehtarnavaz, exposureSet = 3 5 8 
+image range: [3, 6]
+[phiMin, phiMax] =   9.44469060,  22.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.155559 seconds.
+4, RITTiger, Barakat, exposureSet = 1 6 8 9 
+image range: [3, 6]
+[phiMin, phiMax] =   9.44469060,  22.95388428
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.002000000000
+m( 9) =   4, t( 9) =  0.125000000000
+Elapsed time is 0.168097 seconds.
+2, RITTiger, Hasinoff, exposureSet = 3 9 
+image range: [3, 6]
+N = 1
+found = true, N = 1, maxValue = 204164.304950, exposureSet = 6 
+Elapsed time is 0.157164 seconds.
+1, RITTiger, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 3:  0.002000000000
+ 6:  0.016666666667
+ 8:  0.066666666667
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.298446 seconds.
+3, RITTiger, SetCovering, exposureSet = 3 6 8 
+Elapsed time is 0.149657 seconds.
+3, RITTiger, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 6
+continuous: stops(1) =    3.582, stops(2) =   -0.394, stops(3) =   -2.678
+discrete:   steps(1) =    4.000, steps(2) =   -0.000, steps(3) =   -3.000
+Elapsed time is 0.164629 seconds.
+2, RedwoodSunset, Kehtarnavaz, exposureSet = 3 6 
+image range: [3, 9]
+[phiMin, phiMax] =   3.13141162,  19.76692809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.168010 seconds.
+4, RedwoodSunset, Barakat, exposureSet = 2 7 8 9 
+image range: [3, 9]
+[phiMin, phiMax] =   3.13141162,  19.76692809
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.003125000000
+m( 5) =   1, t( 5) =  0.050000000000
+m( 9) = 502, t( 9) =  0.769230769231
+Elapsed time is 0.177727 seconds.
+3, RedwoodSunset, Hasinoff, exposureSet = 1 5 9 
+image range: [3, 9]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 267699.319997, exposureSet = 7 8 
+Elapsed time is 0.169616 seconds.
+2, RedwoodSunset, Seshadrinathan5, exposureSet = 7 8 
+minP = 20, maxP = 230
+ 1:  0.003125000000
+ 5:  0.050000000000
+ 8:  0.400000000000
+ 9:  0.769230769231
+2164/616960 rows (0.4 percent) are zero
+Elapsed time is 0.295457 seconds.
+4, RedwoodSunset, SetCovering, exposureSet = 1 5 8 9 
+Elapsed time is 0.146014 seconds.
+4, RedwoodSunset, Middle5 , exposureSet = 2 4 6 8 
+
+bestExposure = 7
+continuous: stops(1) =    2.580, stops(2) =   -0.017, stops(3) =   -3.029
+discrete:   steps(1) =    3.000, steps(2) =   -0.000, steps(3) =   -3.000
+Elapsed time is 0.170310 seconds.
+2, RoadsEndFireDamage, Kehtarnavaz, exposureSet = 4 7 
+image range: [3, 8]
+[phiMin, phiMax] =   5.43612809,  19.08132809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.163494 seconds.
+4, RoadsEndFireDamage, Barakat, exposureSet = 2 7 8 9 
+image range: [3, 8]
+[phiMin, phiMax] =   5.43612809,  19.08132809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.012500000000
+m( 9) =  22, t( 9) =  0.769230769231
+Elapsed time is 0.176252 seconds.
+2, RoadsEndFireDamage, Hasinoff, exposureSet = 3 9 
+image range: [3, 8]
+N = 1
+found = true, N = 1, maxValue = 139694.023684, exposureSet = 8 
+Elapsed time is 0.166288 seconds.
+1, RoadsEndFireDamage, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+ 1:  0.003125000000
+ 4:  0.025000000000
+ 6:  0.100000000000
+ 9:  0.769230769231
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.306481 seconds.
+4, RoadsEndFireDamage, SetCovering, exposureSet = 1 4 6 9 
+Elapsed time is 0.150067 seconds.
+4, RoadsEndFireDamage, Middle5 , exposureSet = 3 5 7 9 
+
+bestExposure = 7
+continuous: stops(1) =    2.617, stops(2) =    0.186, stops(3) =   -3.083
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.157554 seconds.
+2, RoundBarnInside, Kehtarnavaz, exposureSet = 4 7 
+image range: [1, 8]
+[phiMin, phiMax] =  -0.41702500,  16.98810000
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.165185 seconds.
+4, RoundBarnInside, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =  -0.41702500,  16.98810000
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.125000000000
+m( 7) =   1, t( 7) =  9.000000000000
+m( 8) =   1, t( 8) = 15.000000000000
+m( 9) =  46, t( 9) = 30.000000000000
+Elapsed time is 0.179164 seconds.
+4, RoundBarnInside, Hasinoff, exposureSet = 1 7 8 9 
+image range: [1, 8]
+N = 1
+found = true, N = 1, maxValue = 153740.631457, exposureSet = 9 
+Elapsed time is 0.166044 seconds.
+1, RoundBarnInside, Seshadrinathan5, exposureSet = 9 
+minP = 20, maxP = 230
+ 1:  0.125000000000
+ 4:  1.000000000000
+ 5:  2.000000000000
+ 6:  4.000000000000
+ 7:  9.000000000000
+ 9: 30.000000000000
+2938/616960 rows (0.5 percent) are zero
+Elapsed time is 0.292221 seconds.
+6, RoundBarnInside, SetCovering, exposureSet = 1 4 5 6 7 9 
+Elapsed time is 0.138634 seconds.
+5, RoundBarnInside, Middle7 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    3.958, stops(2) =    0.169, stops(3) =   -2.056
+discrete:   steps(1) =    4.000, steps(2) =    0.000, steps(3) =   -2.000
+Elapsed time is 0.167810 seconds.
+3, RoundStoneBarn, Kehtarnavaz, exposureSet = 3 5 9 
+image range: [4, 9]
+[phiMin, phiMax] =   6.53780000,  19.92418428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.165571 seconds.
+3, RoundStoneBarn, Barakat, exposureSet = 4 8 9 
+image range: [4, 9]
+[phiMin, phiMax] =   6.53780000,  19.92418428
+Using second cost function: shutter speeds + overhead
+m( 4) =   1, t( 4) =  0.004000000000
+m( 9) = 171, t( 9) =  0.125000000000
+Elapsed time is 0.176342 seconds.
+2, RoundStoneBarn, Hasinoff, exposureSet = 4 9 
+image range: [4, 9]
+N = 1
+found = true, N = 1, maxValue = 218311.915636, exposureSet = 7 
+Elapsed time is 0.164696 seconds.
+1, RoundStoneBarn, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 4:  0.004000000000
+ 6:  0.016666666667
+ 9:  0.125000000000
+100/616960 rows (0.0 percent) are zero
+Elapsed time is 0.302121 seconds.
+3, RoundStoneBarn, SetCovering, exposureSet = 4 6 9 
+Elapsed time is 0.149992 seconds.
+3, RoundStoneBarn, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    2.655, stops(2) =   -0.033, stops(3) =   -1.712
+discrete:   steps(1) =    3.000, steps(2) =   -0.000, steps(3) =   -2.000
+Elapsed time is 0.165880 seconds.
+3, Route66Museum, Kehtarnavaz, exposureSet = 3 5 8 
+image range: [4, 8]
+[phiMin, phiMax] =   4.85972809,  18.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.158125 seconds.
+4, Route66Museum, Barakat, exposureSet = 2 7 8 9 
+image range: [4, 8]
+[phiMin, phiMax] =   4.85972809,  18.31002809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.025000000000
+m( 9) =  13, t( 9) =  1.500000000000
+Elapsed time is 0.167586 seconds.
+2, Route66Museum, Hasinoff, exposureSet = 3 9 
+image range: [4, 8]
+N = 1
+found = true, N = 1, maxValue = 164976.189910, exposureSet = 6 
+Elapsed time is 0.157025 seconds.
+1, Route66Museum, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 1:  0.006250000000
+ 5:  0.100000000000
+ 9:  1.500000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.296035 seconds.
+3, Route66Museum, SetCovering, exposureSet = 1 5 9 
+Elapsed time is 0.146197 seconds.
+3, Route66Museum, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    3.582, stops(2) =    0.312, stops(3) =   -2.847
+discrete:   steps(1) =    4.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.177002 seconds.
+3, SequoiaRemains, Kehtarnavaz, exposureSet = 2 5 9 
+image range: [3, 8]
+[phiMin, phiMax] =   7.43612809,  21.08132809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.168383 seconds.
+4, SequoiaRemains, Barakat, exposureSet = 2 7 8 9 
+image range: [3, 8]
+[phiMin, phiMax] =   7.43612809,  21.08132809
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.003125000000
+m( 9) =  20, t( 9) =  0.200000000000
+Elapsed time is 0.179320 seconds.
+2, SequoiaRemains, Hasinoff, exposureSet = 3 9 
+image range: [3, 8]
+N = 1
+found = true, N = 1, maxValue = 151000.923854, exposureSet = 7 
+Elapsed time is 0.169463 seconds.
+1, SequoiaRemains, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 2:  0.001562500000
+ 5:  0.012500000000
+ 9:  0.200000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.316692 seconds.
+3, SequoiaRemains, SetCovering, exposureSet = 2 5 9 
+Elapsed time is 0.154598 seconds.
+3, SequoiaRemains, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 6
+continuous: stops(1) =    3.925, stops(2) =    0.466, stops(3) =   -2.371
+discrete:   steps(1) =    4.000, steps(2) =    0.000, steps(3) =   -2.000
+Elapsed time is 0.193235 seconds.
+2, SmokyTunnel, Kehtarnavaz, exposureSet = 4 6 
+image range: [3, 8]
+[phiMin, phiMax] =   5.11420000,  18.38789060
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.186588 seconds.
+3, SmokyTunnel, Barakat, exposureSet = 3 8 9 
+image range: [3, 8]
+[phiMin, phiMax] =   5.11420000,  18.38789060
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.016666666667
+m( 9) =  20, t( 9) =  1.000000000000
+Elapsed time is 0.196694 seconds.
+2, SmokyTunnel, Hasinoff, exposureSet = 3 9 
+image range: [3, 8]
+N = 1
+found = true, N = 1, maxValue = 113503.705193, exposureSet = 7 
+Elapsed time is 0.187316 seconds.
+1, SmokyTunnel, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 3:  0.016666666667
+ 5:  0.066666666667
+ 7:  0.250000000000
+ 9:  1.000000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.330303 seconds.
+4, SmokyTunnel, SetCovering, exposureSet = 3 5 7 9 
+Elapsed time is 0.170272 seconds.
+4, SmokyTunnel, Middle5 , exposureSet = 2 4 6 8 
+
+bestExposure = 6
+continuous: stops(1) =    2.887, stops(2) =    0.848, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.159761 seconds.
+3, SouthBranchKingsRiver, Kehtarnavaz, exposureSet = 3 7 9 
+image range: [3, 7]
+[phiMin, phiMax] =   5.53780000,  18.66629060
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.150208 seconds.
+4, SouthBranchKingsRiver, Barakat, exposureSet = 2 7 8 9 
+image range: [3, 7]
+[phiMin, phiMax] =   5.53780000,  18.66629060
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.008000000000
+m( 8) =   2, t( 8) =  0.500000000000
+m( 9) =   9, t( 9) =  1.100000000000
+Elapsed time is 0.162016 seconds.
+3, SouthBranchKingsRiver, Hasinoff, exposureSet = 2 8 9 
+image range: [3, 7]
+N = 1
+found = true, N = 1, maxValue = 126073.757376, exposureSet = 8 
+Elapsed time is 0.152846 seconds.
+1, SouthBranchKingsRiver, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+ 1:  0.004000000000
+ 3:  0.016666666667
+ 5:  0.066666666667
+ 7:  0.250000000000
+ 8:  0.500000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.290331 seconds.
+5, SouthBranchKingsRiver, SetCovering, exposureSet = 1 3 5 7 8 
+Elapsed time is 0.140373 seconds.
+4, SouthBranchKingsRiver, Middle5 , exposureSet = 2 4 6 8 
+
+bestExposure = 6
+continuous: stops(1) =    2.617, stops(2) =   -0.343, stops(3) =   -2.403
+discrete:   steps(1) =    3.000, steps(2) =   -0.000, steps(3) =   -2.000
+Elapsed time is 0.175968 seconds.
+3, SunsetPoint1, Kehtarnavaz, exposureSet = 4 6 9 
+image range: [5, 8]
+[phiMin, phiMax] =   6.53780000,  19.89499060
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.160643 seconds.
+3, SunsetPoint1, Barakat, exposureSet = 3 8 9 
+image range: [5, 8]
+[phiMin, phiMax] =   6.53780000,  19.89499060
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.004000000000
+m( 9) =  44, t( 9) =  0.250000000000
+Elapsed time is 0.172005 seconds.
+2, SunsetPoint1, Hasinoff, exposureSet = 3 9 
+image range: [5, 8]
+N = 1
+found = true, N = 1, maxValue = 350505.174126, exposureSet = 8 
+Elapsed time is 0.163393 seconds.
+1, SunsetPoint1, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+ 4:  0.008000000000
+ 9:  0.250000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.300939 seconds.
+2, SunsetPoint1, SetCovering, exposureSet = 4 9 
+Elapsed time is 0.155524 seconds.
+3, SunsetPoint1, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    3.011, stops(2) =    0.690, stops(3) =   -1.444
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -1.000
+Elapsed time is 0.181056 seconds.
+3, SunsetPoint2, Kehtarnavaz, exposureSet = 4 6 8 
+image range: [4, 8]
+[phiMin, phiMax] =   8.08192809,  20.62285310
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.171742 seconds.
+3, SunsetPoint2, Barakat, exposureSet = 3 8 9 
+image range: [4, 8]
+[phiMin, phiMax] =   8.08192809,  20.62285310
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.002857142857
+m( 9) =  12, t( 9) =  0.166666666667
+Elapsed time is 0.180025 seconds.
+2, SunsetPoint2, Hasinoff, exposureSet = 3 9 
+image range: [4, 8]
+N = 1
+found = true, N = 1, maxValue = 129160.205679, exposureSet = 6 
+Elapsed time is 0.171096 seconds.
+1, SunsetPoint2, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 3:  0.002857142857
+ 8:  0.100000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.308487 seconds.
+2, SunsetPoint2, SetCovering, exposureSet = 3 8 
+Elapsed time is 0.161951 seconds.
+3, SunsetPoint2, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 6
+continuous: stops(1) =    2.383, stops(2) =    0.399, stops(3) =   -3.390
+discrete:   steps(1) =    2.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.176896 seconds.
+3, TaughannockFalls, Kehtarnavaz, exposureSet = 3 6 8 
+image range: [4, 6]
+[phiMin, phiMax] =   4.85972809,  17.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.162696 seconds.
+4, TaughannockFalls, Barakat, exposureSet = 2 7 8 9 
+image range: [4, 6]
+[phiMin, phiMax] =   4.85972809,  17.31002809
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.025000000000
+m( 8) =   2, t( 8) =  1.500000000000
+m( 9) =   3, t( 9) =  3.000000000000
+Elapsed time is 0.172966 seconds.
+3, TaughannockFalls, Hasinoff, exposureSet = 2 8 9 
+image range: [4, 6]
+N = 1
+found = true, N = 1, maxValue = 137108.985380, exposureSet = 6 
+Elapsed time is 0.161552 seconds.
+1, TaughannockFalls, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 4:  0.100000000000
+ 8:  1.500000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.307477 seconds.
+2, TaughannockFalls, SetCovering, exposureSet = 4 8 
+Elapsed time is 0.155999 seconds.
+3, TaughannockFalls, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    2.617, stops(2) =    0.690, stops(3) =   -1.988
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -2.000
+Elapsed time is 0.187599 seconds.
+3, TheGrotto, Kehtarnavaz, exposureSet = 3 6 8 
+image range: [3, 6]
+[phiMin, phiMax] =   9.08192809,  19.56805310
+minP = 20, maxP = 230
+Elapsed time is 0.171122 seconds.
+2, TheGrotto, Barakat, exposureSet = 3 8 
+image range: [3, 6]
+[phiMin, phiMax] =   9.08192809,  19.56805310
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.005555555556
+m( 9) =   1, t( 9) =  0.333333333333
+Elapsed time is 0.186175 seconds.
+2, TheGrotto, Hasinoff, exposureSet = 3 9 
+image range: [3, 6]
+N = 1
+found = true, N = 1, maxValue = 152526.856043, exposureSet = 7 
+Elapsed time is 0.173998 seconds.
+1, TheGrotto, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 2:  0.002857142857
+ 4:  0.011111111111
+ 5:  0.022222222222
+ 6:  0.050000000000
+ 7:  0.100000000000
+1/616960 rows (0.0 percent) are zero
+Elapsed time is 0.327962 seconds.
+5, TheGrotto, SetCovering, exposureSet = 2 4 5 6 7 
+Elapsed time is 0.165971 seconds.
+5, TheGrotto, Middle5 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 6
+continuous: stops(1) =    2.306, stops(2) =    0.330, stops(3) =   -3.146
+discrete:   steps(1) =    2.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.160481 seconds.
+3, TheNarrows1, Kehtarnavaz, exposureSet = 3 6 8 
+image range: [1, 7]
+[phiMin, phiMax] =   7.76000000,  22.07558428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.163968 seconds.
+4, TheNarrows1, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 7]
+[phiMin, phiMax] =   7.76000000,  22.07558428
+Using second cost function: shutter speeds + overhead
+m( 1) =   2, t( 1) =  0.002000000000
+m( 8) =   1, t( 8) =  0.250000000000
+m( 9) =   2, t( 9) =  0.500000000000
+Elapsed time is 0.173227 seconds.
+3, TheNarrows1, Hasinoff, exposureSet = 1 8 9 
+image range: [1, 7]
+N = 1
+found = true, N = 1, maxValue = 45457.706321, exposureSet = 6 
+Elapsed time is 0.162013 seconds.
+1, TheNarrows1, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 1:  0.002000000000
+ 6:  0.066666666667
+ 8:  0.250000000000
+164/616960 rows (0.0 percent) are zero
+Elapsed time is 0.299282 seconds.
+3, TheNarrows1, SetCovering, exposureSet = 1 6 8 
+Elapsed time is 0.151813 seconds.
+3, TheNarrows1, Middle3 , exposureSet = 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    2.696, stops(2) =    0.485, stops(3) =   -2.879
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.193478 seconds.
+3, TheNarrows2, Kehtarnavaz, exposureSet = 2 5 8 
+image range: [2, 7]
+[phiMin, phiMax] =   7.34496250,  20.46085310
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.186654 seconds.
+4, TheNarrows2, Barakat, exposureSet = 1 6 8 9 
+image range: [2, 7]
+[phiMin, phiMax] =   7.34496250,  20.46085310
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.005555555556
+m( 8) =   1, t( 8) =  0.333333333333
+m( 9) =   2, t( 9) =  0.666666666667
+Elapsed time is 0.201222 seconds.
+3, TheNarrows2, Hasinoff, exposureSet = 2 8 9 
+image range: [2, 7]
+N = 1
+found = true, N = 1, maxValue = 133684.532432, exposureSet = 7 
+Elapsed time is 0.190274 seconds.
+1, TheNarrows2, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 1:  0.002857142857
+ 3:  0.011111111111
+ 5:  0.050000000000
+ 8:  0.333333333333
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.329712 seconds.
+4, TheNarrows2, SetCovering, exposureSet = 1 3 5 8 
+Elapsed time is 0.170179 seconds.
+5, TheNarrows2, Middle5 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    2.829, stops(2) =    0.724, stops(3) =   -2.879
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.167901 seconds.
+3, TheNarrows3, Kehtarnavaz, exposureSet = 2 6 8 
+image range: [1, 7]
+[phiMin, phiMax] =   8.02109060,  22.36698428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.168129 seconds.
+4, TheNarrows3, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 7]
+[phiMin, phiMax] =   8.02109060,  22.36698428
+Using second cost function: shutter speeds + overhead
+m( 2) =   2, t( 2) =  0.002000000000
+m( 9) =   6, t( 9) =  0.250000000000
+Elapsed time is 0.185348 seconds.
+2, TheNarrows3, Hasinoff, exposureSet = 2 9 
+image range: [1, 7]
+N = 1
+found = true, N = 1, maxValue = 77363.252883, exposureSet = 6 
+Elapsed time is 0.169838 seconds.
+1, TheNarrows3, Seshadrinathan5, exposureSet = 6 
+minP = 20, maxP = 230
+ 1:  0.001000000000
+ 4:  0.008000000000
+ 5:  0.016666666667
+ 8:  0.125000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.312836 seconds.
+4, TheNarrows3, SetCovering, exposureSet = 1 4 5 8 
+Elapsed time is 0.146727 seconds.
+5, TheNarrows3, Middle5 , exposureSet = 1 3 5 7 9 
+
+bestExposure = 7
+continuous: stops(1) =    3.240, stops(2) =    1.078, stops(3) =   -2.643
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.179603 seconds.
+2, TunnelView1, Kehtarnavaz, exposureSet = 4 8 
+image range: [6, 9]
+[phiMin, phiMax] =   7.44469060,  18.83339060
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.165021 seconds.
+3, TunnelView1, Barakat, exposureSet = 5 8 9 
+image range: [6, 9]
+[phiMin, phiMax] =   7.44469060,  18.83339060
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.001000000000
+m( 8) =   1, t( 8) =  0.066666666667
+m( 9) =  49, t( 9) =  0.125000000000
+Elapsed time is 0.178177 seconds.
+3, TunnelView1, Hasinoff, exposureSet = 2 8 9 
+image range: [6, 9]
+N = 1
+found = true, N = 1, maxValue = 120400.530859, exposureSet = 8 
+Elapsed time is 0.166020 seconds.
+1, TunnelView1, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+ 3:  0.002000000000
+ 6:  0.016666666667
+ 9:  0.125000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.311702 seconds.
+3, TunnelView1, SetCovering, exposureSet = 3 6 9 
+Elapsed time is 0.159172 seconds.
+3, TunnelView1, Middle3 , exposureSet = 5 7 9 
+
+bestExposure = 7
+continuous: stops(1) =    2.655, stops(2) =    0.930, stops(3) =   -1.834
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -2.000
+Elapsed time is 0.174241 seconds.
+2, TunnelView2, Kehtarnavaz, exposureSet = 5 8 
+image range: [6, 8]
+[phiMin, phiMax] =   9.18165619,  18.74765619
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.158751 seconds.
+3, TunnelView2, Barakat, exposureSet = 6 8 9 
+image range: [6, 8]
+[phiMin, phiMax] =   9.18165619,  18.74765619
+Using second cost function: shutter speeds + overhead
+m( 7) =   2, t( 7) =  0.020000000000
+m( 9) =  12, t( 9) =  0.076923076923
+Elapsed time is 0.167337 seconds.
+2, TunnelView2, Hasinoff, exposureSet = 7 9 
+image range: [6, 8]
+N = 1
+found = true, N = 1, maxValue = 209648.474709, exposureSet = 8 
+Elapsed time is 0.158176 seconds.
+1, TunnelView2, Seshadrinathan5, exposureSet = 8 
+minP = 20, maxP = 230
+Adding bestExposure =  6
+ 6:  0.010000000000
+ 9:  0.076923076923
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.298178 seconds.
+2, TunnelView2, SetCovering, exposureSet = 6 9 
+Elapsed time is 0.153754 seconds.
+3, TunnelView2, Middle3 , exposureSet = 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    1.648, stops(2) =    0.034, stops(3) =   -0.757
+discrete:   steps(1) =    2.000, steps(2) =    0.000, steps(3) =   -1.000
+Elapsed time is 0.158395 seconds.
+3, TupperLake1, Kehtarnavaz, exposureSet = 4 5 7 
+image range: [6, 6]
+[phiMin, phiMax] =  15.56645619,  20.63195619
+minP = 20, maxP = 230
+Elapsed time is 0.138621 seconds.
+1, TupperLake1, Barakat, exposureSet = 4 
+image range: [6, 6]
+[phiMin, phiMax] =  15.56645619,  20.63195619
+Using second cost function: shutter speeds + overhead
+m( 5) =   1, t( 5) =  0.005000000000
+Elapsed time is 0.147403 seconds.
+1, TupperLake1, Hasinoff, exposureSet = 5 
+image range: [6, 6]
+N = 1
+found = true, N = 1, maxValue = 742876.802777, exposureSet = 7 
+Elapsed time is 0.137455 seconds.
+1, TupperLake1, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  1
+ 1:  0.000312500000
+ 5:  0.005000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.286158 seconds.
+2, TupperLake1, SetCovering, exposureSet = 1 5 
+Elapsed time is 0.139978 seconds.
+3, TupperLake1, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    1.863, stops(2) =   -0.152, stops(3) =   -1.188
+discrete:   steps(1) =    2.000, steps(2) =   -0.000, steps(3) =   -1.000
+Elapsed time is 0.160876 seconds.
+3, TupperLake2, Kehtarnavaz, exposureSet = 4 5 7 
+image range: [5, 5]
+[phiMin, phiMax] =  14.32398428,  19.08778428
+minP = 20, maxP = 230
+Elapsed time is 0.141865 seconds.
+1, TupperLake2, Barakat, exposureSet = 5 
+image range: [5, 5]
+[phiMin, phiMax] =  14.32398428,  19.08778428
+Using second cost function: shutter speeds + overhead
+m( 6) =   1, t( 6) =  0.016666666667
+Elapsed time is 0.154629 seconds.
+1, TupperLake2, Hasinoff, exposureSet = 6 
+image range: [5, 5]
+N = 1
+found = true, N = 1, maxValue = 1011438.510428, exposureSet = 7 
+Elapsed time is 0.143479 seconds.
+1, TupperLake2, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  3
+ 3:  0.002000000000
+ 5:  0.008000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.288236 seconds.
+2, TupperLake2, SetCovering, exposureSet = 3 5 
+Elapsed time is 0.143873 seconds.
+3, TupperLake2, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 9
+continuous: stops(1) =    2.655, stops(2) =    0.652, stops(3) =   -2.803
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.165767 seconds.
+1, URChapel1, Kehtarnavaz, exposureSet = 6 
+image range: [1, 9]
+[phiMin, phiMax] =   8.05692809,  24.27581238
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.180829 seconds.
+4, URChapel1, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   8.05692809,  24.27581238
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.000800000000
+m( 3) =   1, t( 3) =  0.003125000000
+m( 9) =   9, t( 9) =  0.200000000000
+Elapsed time is 0.189286 seconds.
+3, URChapel1, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 9]
+N = 1
+found = true, N = 1, maxValue = 32645.582738, exposureSet = 9 
+Elapsed time is 0.180522 seconds.
+1, URChapel1, Seshadrinathan5, exposureSet = 9 
+minP = 20, maxP = 230
+ 1:  0.000800000000
+ 5:  0.012500000000
+ 9:  0.200000000000
+3508/616960 rows (0.6 percent) are zero
+Elapsed time is 0.285909 seconds.
+3, URChapel1, SetCovering, exposureSet = 1 5 9 
+Elapsed time is 0.145993 seconds.
+2, URChapel1, Middle3 , exposureSet = 7 9 
+
+bestExposure = 7
+continuous: stops(1) =    2.383, stops(2) =    0.257, stops(3) =   -2.803
+discrete:   steps(1) =    2.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.160744 seconds.
+3, URChapel2, Kehtarnavaz, exposureSet = 4 7 9 
+image range: [1, 8]
+[phiMin, phiMax] =   4.53780000,  20.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.167976 seconds.
+4, URChapel2, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =   4.53780000,  20.95388428
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.008000000000
+m( 2) =   1, t( 2) =  0.016666666667
+m( 9) =  14, t( 9) =  1.800000000000
+Elapsed time is 0.180552 seconds.
+3, URChapel2, Hasinoff, exposureSet = 1 2 9 
+image range: [1, 8]
+N = 1
+found = true, N = 1, maxValue = 157634.879571, exposureSet = 9 
+Elapsed time is 0.170612 seconds.
+1, URChapel2, Seshadrinathan5, exposureSet = 9 
+minP = 20, maxP = 230
+ 1:  0.008000000000
+ 3:  0.033333333333
+ 7:  0.500000000000
+ 9:  1.800000000000
+1964/616960 rows (0.3 percent) are zero
+Elapsed time is 0.293755 seconds.
+4, URChapel2, SetCovering, exposureSet = 1 3 7 9 
+Elapsed time is 0.141414 seconds.
+4, URChapel2, Middle5 , exposureSet = 3 5 7 9 
+
+bestExposure = 5
+continuous: stops(1) =    1.950, stops(2) =    0.159, stops(3) =   -1.188
+discrete:   steps(1) =    2.000, steps(2) =    0.000, steps(3) =   -1.000
+Elapsed time is 0.170009 seconds.
+3, UpheavalDome, Kehtarnavaz, exposureSet = 4 5 7 
+image range: [5, 5]
+[phiMin, phiMax] =   5.59749648,  12.12719648
+minP = 20, maxP = 230
+Elapsed time is 0.148388 seconds.
+2, UpheavalDome, Barakat, exposureSet = 5 7 
+image range: [5, 5]
+[phiMin, phiMax] =   5.59749648,  12.12719648
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.076923076923
+m( 7) =   1, t( 7) =  4.500000000000
+Elapsed time is 0.161702 seconds.
+2, UpheavalDome, Hasinoff, exposureSet = 1 7 
+image range: [5, 5]
+N = 1
+found = true, N = 1, maxValue = 633473.083235, exposureSet = 7 
+Elapsed time is 0.149569 seconds.
+1, UpheavalDome, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+Adding bestExposure =  4
+ 4:  0.625000000000
+ 6:  2.200000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.300970 seconds.
+2, UpheavalDome, SetCovering, exposureSet = 4 6 
+Elapsed time is 0.150680 seconds.
+3, UpheavalDome, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 9
+continuous: stops(1) =    5.414, stops(2) =    1.334, stops(3) =   -2.803
+discrete:   steps(1) =    5.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.146949 seconds.
+1, WaffleHouse, Kehtarnavaz, exposureSet = 6 
+image range: [1, 9]
+[phiMin, phiMax] =   3.15928838,  21.47995310
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.162226 seconds.
+4, WaffleHouse, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   3.15928838,  21.47995310
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.005555555556
+m( 3) =   1, t( 3) =  0.022222222222
+m( 9) = 171, t( 9) =  1.300000000000
+Elapsed time is 0.174610 seconds.
+3, WaffleHouse, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 9]
+N = 1
+N = 2
+N = 3
+N = 4
+N = 5
+found = false, N = 5, maxValue = 70861.594318, exposureSet = 5 6 7 8 9 
+Elapsed time is 0.204401 seconds.
+5, WaffleHouse, Seshadrinathan5, exposureSet = 5 6 7 8 9 
+minP = 20, maxP = 230
+ 1:  0.005555555556
+ 2:  0.011111111111
+ 6:  0.166666666667
+ 9:  1.300000000000
+355429/616960 rows (57.6 percent) are zero
+Elapsed time is 0.213790 seconds.
+4, WaffleHouse, SetCovering, exposureSet = 1 2 6 9 
+Elapsed time is 0.127701 seconds.
+3, WaffleHouse, Middle5 , exposureSet = 5 7 9 
+
+bestExposure = 6
+continuous: stops(1) =    3.958, stops(2) =    0.257, stops(3) =   -3.390
+discrete:   steps(1) =    4.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.172247 seconds.
+2, WallDrug, Kehtarnavaz, exposureSet = 3 6 
+image range: [1, 8]
+[phiMin, phiMax] =   5.43612809,  22.31002809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.180441 seconds.
+4, WallDrug, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 8]
+[phiMin, phiMax] =   5.43612809,  22.31002809
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.003125000000
+m( 3) =   1, t( 3) =  0.012500000000
+m( 9) =  22, t( 9) =  0.769230769231
+Elapsed time is 0.192333 seconds.
+3, WallDrug, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 8]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 254886.632761, exposureSet = 8 9 
+Elapsed time is 0.184136 seconds.
+2, WallDrug, Seshadrinathan5, exposureSet = 8 9 
+minP = 20, maxP = 230
+ 1:  0.003125000000
+ 3:  0.012500000000
+ 6:  0.100000000000
+ 9:  0.769230769231
+15/616960 rows (0.0 percent) are zero
+Elapsed time is 0.304471 seconds.
+4, WallDrug, SetCovering, exposureSet = 1 3 6 9 
+Elapsed time is 0.155097 seconds.
+4, WallDrug, Middle5 , exposureSet = 2 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    3.240, stops(2) =    1.159, stops(3) =   -3.029
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.184851 seconds.
+3, WestBranchAusable1, Kehtarnavaz, exposureSet = 2 6 8 
+image range: [2, 6]
+[phiMin, phiMax] =   6.53780000,  19.77485619
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.176759 seconds.
+4, WestBranchAusable1, Barakat, exposureSet = 1 6 8 9 
+image range: [2, 6]
+[phiMin, phiMax] =   6.53780000,  19.77485619
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.016666666667
+m( 9) =   3, t( 9) =  1.100000000000
+Elapsed time is 0.187830 seconds.
+2, WestBranchAusable1, Hasinoff, exposureSet = 3 9 
+image range: [2, 6]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 330583.414906, exposureSet = 5 9 
+Elapsed time is 0.178538 seconds.
+2, WestBranchAusable1, Seshadrinathan5, exposureSet = 5 9 
+minP = 20, maxP = 230
+ 1:  0.004000000000
+ 4:  0.033333333333
+ 7:  0.250000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.318332 seconds.
+3, WestBranchAusable1, SetCovering, exposureSet = 1 4 7 
+Elapsed time is 0.165358 seconds.
+3, WestBranchAusable1, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 5
+continuous: stops(1) =    3.240, stops(2) =    1.178, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.156119 seconds.
+3, WestBranchAusable2, Kehtarnavaz, exposureSet = 2 6 8 
+image range: [1, 7]
+[phiMin, phiMax] =   5.43612809,  20.08132809
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.159678 seconds.
+4, WestBranchAusable2, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 7]
+[phiMin, phiMax] =   5.43612809,  20.08132809
+Using second cost function: shutter speeds + overhead
+m( 2) =   1, t( 2) =  0.012500000000
+m( 8) =   1, t( 8) =  0.769230769231
+m( 9) =   5, t( 9) =  1.600000000000
+Elapsed time is 0.171623 seconds.
+3, WestBranchAusable2, Hasinoff, exposureSet = 2 8 9 
+image range: [1, 7]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 318270.219738, exposureSet = 4 9 
+Elapsed time is 0.164288 seconds.
+2, WestBranchAusable2, Seshadrinathan5, exposureSet = 4 9 
+minP = 20, maxP = 230
+ 1:  0.006250000000
+ 4:  0.050000000000
+ 7:  0.400000000000
+2/616960 rows (0.0 percent) are zero
+Elapsed time is 0.298534 seconds.
+3, WestBranchAusable2, SetCovering, exposureSet = 1 4 7 
+Elapsed time is 0.138600 seconds.
+3, WestBranchAusable2, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 9
+continuous: stops(1) =    3.011, stops(2) =   -0.445, stops(3) =   -3.146
+discrete:   steps(1) =    3.000, steps(2) =   -0.000, steps(3) =   -3.000
+Elapsed time is 0.162971 seconds.
+2, WillyDesk, Kehtarnavaz, exposureSet = 6 9 
+image range: [1, 9]
+[phiMin, phiMax] =   7.85972809,  23.06691238
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.180627 seconds.
+4, WillyDesk, Barakat, exposureSet = 2 7 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   7.85972809,  23.06691238
+Using second cost function: shutter speeds + overhead
+m( 3) =   1, t( 3) =  0.000800000000
+m( 9) = 171, t( 9) =  0.050000000000
+Elapsed time is 0.189759 seconds.
+2, WillyDesk, Hasinoff, exposureSet = 3 9 
+image range: [1, 9]
+N = 1
+N = 2
+N = 3
+N = 4
+N = 5
+found = false, N = 5, maxValue = 238208.512225, exposureSet = 5 6 7 8 9 
+Elapsed time is 0.242134 seconds.
+5, WillyDesk, Seshadrinathan5, exposureSet = 5 6 7 8 9 
+minP = 20, maxP = 230
+ 2:  0.000400000000
+ 5:  0.003125000000
+ 9:  0.050000000000
+56504/616960 rows (9.2 percent) are zero
+Elapsed time is 0.279389 seconds.
+3, WillyDesk, SetCovering, exposureSet = 2 5 9 
+Elapsed time is 0.144468 seconds.
+2, WillyDesk, Middle3 , exposureSet = 7 9 
+
+bestExposure = 4
+continuous: stops(1) =    3.324, stops(2) =   -0.119, stops(3) =   -3.083
+discrete:   steps(1) =    3.000, steps(2) =   -0.000, steps(3) =   -3.000
+Elapsed time is 0.139594 seconds.
+3, WillySentinel, Kehtarnavaz, exposureSet = 1 4 7 
+image range: [1, 6]
+[phiMin, phiMax] =  10.50358428,  25.95388428
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.139585 seconds.
+4, WillySentinel, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 6]
+[phiMin, phiMax] =  10.50358428,  25.95388428
+Using second cost function: shutter speeds + overhead
+m( 1) =   1, t( 1) =  0.000250000000
+m( 3) =   1, t( 3) =  0.001000000000
+m( 9) =   3, t( 9) =  0.066666666667
+Elapsed time is 0.147339 seconds.
+3, WillySentinel, Hasinoff, exposureSet = 1 3 9 
+image range: [1, 6]
+N = 1
+N = 2
+found = true, N = 2, maxValue = 218362.748539, exposureSet = 4 6 
+Elapsed time is 0.142936 seconds.
+2, WillySentinel, Seshadrinathan5, exposureSet = 4 6 
+minP = 20, maxP = 230
+ 1:  0.000250000000
+ 2:  0.000500000000
+ 5:  0.004000000000
+ 7:  0.016666666667
+4851/616960 rows (0.8 percent) are zero
+Elapsed time is 0.267330 seconds.
+4, WillySentinel, SetCovering, exposureSet = 1 2 5 7 
+Elapsed time is 0.122644 seconds.
+4, WillySentinel, Middle5 , exposureSet = 2 4 6 8 
+
+bestExposure = 5
+continuous: stops(1) =    3.324, stops(2) =    0.466, stops(3) =   -2.753
+discrete:   steps(1) =    3.000, steps(2) =    0.000, steps(3) =   -3.000
+Elapsed time is 0.170745 seconds.
+3, YosemiteFalls, Kehtarnavaz, exposureSet = 2 5 8 
+image range: [2, 7]
+[phiMin, phiMax] =   4.85972809,  20.47995310
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.163923 seconds.
+4, YosemiteFalls, Barakat, exposureSet = 1 6 8 9 
+image range: [2, 7]
+[phiMin, phiMax] =   4.85972809,  20.47995310
+Using second cost function: shutter speeds + overhead
+m( 2) =   2, t( 2) =  0.011111111111
+m( 9) =  17, t( 9) =  1.300000000000
+Elapsed time is 0.175731 seconds.
+2, YosemiteFalls, Hasinoff, exposureSet = 2 9 
+image range: [2, 7]
+N = 1
+found = true, N = 1, maxValue = 131637.443243, exposureSet = 7 
+Elapsed time is 0.166672 seconds.
+1, YosemiteFalls, Seshadrinathan5, exposureSet = 7 
+minP = 20, maxP = 230
+ 2:  0.011111111111
+ 5:  0.100000000000
+ 9:  1.300000000000
+0/616960 rows (0.0 percent) are zero
+Elapsed time is 0.311816 seconds.
+3, YosemiteFalls, SetCovering, exposureSet = 2 5 9 
+Elapsed time is 0.149102 seconds.
+3, YosemiteFalls, Middle3 , exposureSet = 3 5 7 
+
+bestExposure = 9
+continuous: stops(1) =    3.925, stops(2) =    0.908, stops(3) =   -3.083
+discrete:   steps(1) =    4.000, steps(2) =    1.000, steps(3) =   -3.000
+Elapsed time is 0.148423 seconds.
+1, Zentrum, Kehtarnavaz, exposureSet = 6 
+image range: [1, 9]
+[phiMin, phiMax] =   1.53780000,  19.89499060
+minP = 20, maxP = 230
+Algorithm would have failed to terminate.
+Elapsed time is 0.166516 seconds.
+4, Zentrum, Barakat, exposureSet = 1 6 8 9 
+image range: [1, 9]
+[phiMin, phiMax] =   1.53780000,  19.89499060
+Using second cost function: shutter speeds + overhead
+m( 1) =   2, t( 1) =  0.016666666667
+m( 8) =   2, t( 8) =  1.800000000000
+m( 9) = 170, t( 9) =  4.000000000000
+Elapsed time is 0.176872 seconds.
+3, Zentrum, Hasinoff, exposureSet = 1 8 9 
+image range: [1, 9]
+N = 1
+N = 2
+N = 3
+N = 4
+N = 5
+found = false, N = 5, maxValue = 74543.415243, exposureSet = 5 6 7 8 9 
+Elapsed time is 0.222032 seconds.
+5, Zentrum, Seshadrinathan5, exposureSet = 5 6 7 8 9 
+minP = 20, maxP = 230
+ 1:  0.016666666667
+ 4:  0.125000000000
+ 5:  0.250000000000
+ 6:  0.500000000000
+ 7:  1.000000000000
+ 8:  1.800000000000
+ 9:  4.000000000000
+366800/616960 rows (59.5 percent) are zero
+Elapsed time is 0.211177 seconds.
+7, Zentrum, SetCovering, exposureSet = 1 4 5 6 7 8 9 
+Elapsed time is 0.133408 seconds.
+4, Zentrum, Middle7 , exposureSet = 3 5 7 9 
